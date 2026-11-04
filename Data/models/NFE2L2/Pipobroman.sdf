@@ -1,0 +1,158 @@
+4842
+     RDKit          3D
+
+ 16 16  0  0  0  0  0  0  0  0999 V2000
+    6.4111   -1.1883   -0.1109 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4089    1.1908    0.1283 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0189    1.9221   -0.0530 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0101   -1.9128    0.1272 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3327    0.3682    0.3162 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3316   -0.3673   -0.3066 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2736    1.3797    0.3569 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8776   -1.0029    0.5826 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8763    1.0036   -0.5737 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2724   -1.3788   -0.3481 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6555    0.7541    0.1068 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6543   -0.7528   -0.0955 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6828   -0.3490    0.0749 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6915    0.3404   -0.1458 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0627    0.2192   -0.1591 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0699   -0.2264    0.0997 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0
+  2 16  1  0
+  3 11  2  0
+  4 12  2  0
+  5  7  1  0
+  5  8  1  0
+  5 11  1  0
+  6  9  1  0
+  6 10  1  0
+  6 12  1  0
+  7  9  1  0
+  8 10  1  0
+ 11 13  1  0
+ 12 14  1  0
+ 13 15  1  0
+ 14 16  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00236
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <ORIGINAL_SOURCE>  (1) 
+PUBCHEM
+
+>  <ORIGINAL_SOURCE_URL>  (1) 
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NJBFOOCLYDNZJN-UHFFFAOYSA-N/SDF?record_type=3d
+
+>  <SMILES>  (1) 
+BrCCC(=O)N1CCN(CC1)C(=O)CCBr
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C10H16Br2N2O2/c11-3-1-9(15)13-5-7-14(8-6-13)10(16)2-4-12/h1-8H2
+
+>  <INCHI_KEY>  (1) 
+NJBFOOCLYDNZJN-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C10H16Br2N2O2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+356.054
+
+>  <EXACT_MASS>  (1) 
+353.95785306
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+32
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+6.803198355509219e-09
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+28.439271640934393
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+3-bromo-1-[4-(3-bromopropanoyl)piperazin-1-yl]propan-1-one
+
+>  <ALOGPS_LOGP>  (1) 
+1.09
+
+>  <JCHEM_LOGP>  (1) 
+0.4107813379999997
+
+>  <ALOGPS_LOGS>  (1) 
+-2.20
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-1.2556815410743145
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+40.620000000000005
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+69.45280000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.24e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+biotin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB00236
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00693
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Pipobroman
+
+>  <SYNONYMS>  (1) 
+1,4-bis(3-bromopropionyl)piperazine; N,N-bis-(3-bromopropionyl)-piperazine; Pipobroman; Pipobromanum
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Vercite; Vercyte
+
+$$$$

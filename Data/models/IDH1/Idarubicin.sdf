@@ -1,0 +1,211 @@
+42890
+     RDKit          3D
+
+ 36 40  0  0  1  0  0  0  0  0999 V2000
+    2.1882    0.6054    0.0671 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5233    0.4846   -0.3327 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5418   -4.0880    0.8723 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1404    2.8472    0.0215 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0480    1.5131   -0.9634 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3927   -2.9941    1.1899 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7211   -3.9005   -1.8197 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3128    2.5840   -0.9773 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5997   -1.7865    1.0752 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9030    4.5908    0.3694 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6475   -0.6442   -0.3599 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.7548   -3.1168    0.1875 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.4337   -1.7606    0.3306 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3463   -3.0861    0.7848 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1621   -0.6918   -0.0778 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4489   -1.8524    0.4303 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2687    1.0127   -0.7675 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.7715    3.1398    0.4871 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.3106    2.5399   -0.8463 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0940    2.4978    0.9291 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.9473    0.9691    0.9484 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6402    0.4192   -0.3942 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7598   -3.5879   -1.2397 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8353   -1.8632    0.6599 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0225    0.3956   -0.1722 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6193   -0.7442    0.3593 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2569    0.2650    1.2870 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0977   -3.6561   -1.9251 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8369    1.5823   -0.5063 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0757   -0.7845    0.6044 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2934    1.5438   -0.2631 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8911    0.4016    0.2734 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0769    2.6617   -0.5736 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2725    0.3771    0.4995 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4531    2.6330   -0.3466 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0497    1.4931    0.1887 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 11  1  1  1
+ 17  1  1  1
+  2 17  1  0
+  2 21  1  0
+ 12  3  1  1
+ 20  4  1  6
+  5 22  1  0
+  6 24  1  0
+  7 23  2  0
+  8 29  2  0
+  9 30  2  0
+ 18 10  1  6
+ 11 13  1  0
+ 11 15  1  0
+ 12 13  1  0
+ 12 14  1  0
+ 12 23  1  0
+ 14 16  1  0
+ 15 16  2  0
+ 15 22  1  0
+ 16 24  1  0
+ 17 19  1  0
+ 18 19  1  0
+ 18 20  1  0
+ 20 21  1  0
+ 21 27  1  6
+ 22 25  2  0
+ 23 28  1  0
+ 24 26  2  0
+ 25 26  1  0
+ 25 29  1  0
+ 26 30  1  0
+ 29 31  1  0
+ 30 32  1  0
+ 31 32  2  0
+ 31 33  1  0
+ 32 34  1  0
+ 33 35  2  0
+ 34 36  2  0
+ 35 36  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB01177
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <ORIGINAL_SOURCE>  (1) 
+PUBCHEM
+
+>  <ORIGINAL_SOURCE_URL>  (1) 
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XDXDZDZNSLXDNA-TZNDIEGXSA-N/SDF?record_type=3d
+
+>  <SMILES>  (1) 
+C[C@@H]1O[C@H](C[C@H](N)[C@@H]1O)O[C@H]1C[C@@](O)(CC2=C1C(O)=C1C(=O)C3=CC=CC=C3C(=O)C1=C2O)C(C)=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C26H27NO9/c1-10-21(29)15(27)7-17(35-10)36-16-9-26(34,11(2)28)8-14-18(16)25(33)20-19(24(14)32)22(30)12-5-3-4-6-13(12)23(20)31/h3-6,10,15-17,21,29,32-34H,7-9,27H2,1-2H3/t10-,15-,16-,17-,21+,26-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+XDXDZDZNSLXDNA-TZNDIEGXSA-N
+
+>  <FORMULA>  (1) 
+C26H27NO9
+
+>  <MOLECULAR_WEIGHT>  (1) 
+497.4939
+
+>  <EXACT_MASS>  (1) 
+497.168581467
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+10
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+63
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+0.9127043186826603
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+50.83772670564091
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+5
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(7S,9S)-9-acetyl-7-{[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy}-6,9,11-trihydroxy-5,7,8,9,10,12-hexahydrotetracene-5,12-dione
+
+>  <ALOGPS_LOGP>  (1) 
+1.69
+
+>  <JCHEM_LOGP>  (1) 
+1.5205296094186107
+
+>  <ALOGPS_LOGS>  (1) 
+-2.81
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+5
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+9.420409373288853
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+8.03778800466669
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+10.043106884033067
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+176.61
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+126.4283
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+7.72e-01 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+biotin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB01177
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00126
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Idarubicin
+
+>  <SYNONYMS>  (1) 
+(1S,3S)-3-acetyl-3,5,12-trihydroxy-6,11-dioxo-1,2,3,4,6,11-hexahydronaphthacen-1-yl 3-amino-2,3,6-trideoxy-α-L-lyxo-hexopyranoside; 4-Demethoxydaunomycin; 4-Demethoxydaunorubicin; Idarubicin; Idarubicina; Idarubicine; Idarubicinum
+
+>  <PRODUCTS>  (1) 
+Aj-idarubicin; Idamycin; Idamycin - Cap 10mg; Idamycin - Cap 25mg; Idamycin - Cap 5mg; Idamycin PFS; Idamycin Powder -10mg/vial; Idamycin Powder -5mg/vial; Idamycin Pws 10mg/vial; Idamycin Pws 5mg/vial; Idarubicin; Idarubicin Hydrochloride; Idarubicin Hydrochloride Injection
+
+>  <SALTS>  (1) 
+Idarubicin hydrochloride
+
+$$$$

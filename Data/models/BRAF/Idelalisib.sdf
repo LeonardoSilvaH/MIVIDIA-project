@@ -1,0 +1,189 @@
+11625818
+     RDKit          3D
+
+ 31 35  0  0  1  0  0  0  0  0999 V2000
+    5.5173   -0.3501   -1.1681 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6532    1.3277   -0.9959 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5769    0.7866   -0.0234 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5066   -0.7135    0.4489 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2058   -1.4407    0.7266 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3742    0.7331    0.8586 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6031   -2.4174   -1.0249 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7555   -1.8651   -1.2004 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6153    0.2192    0.0429 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5562    0.1112    1.1471 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8080   -0.2149    0.5744 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5672   -0.1800    2.6409 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8988    0.5294   -0.4447 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3702   -0.8576   -0.2477 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4935   -1.7897    0.3074 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4824    0.6323    3.3875 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0544    2.1009   -0.2784 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8533   -0.4020    0.3192 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7360   -1.2290   -0.3649 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6620   -1.2337   -0.6348 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9254   -3.1109    0.4734 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3908    2.3558   -1.4720 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2183    3.1005    0.6721 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0809   -0.9069   -0.4878 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0797   -2.5528   -0.4635 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2119   -3.4915    0.0893 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1172    3.6313   -1.7191 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7104    4.3759    0.4252 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0427    4.6412   -0.7704 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8390   -2.7579   -1.5079 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6973    0.9689    0.6904 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 20  1  0
+  2 13  2  0
+  3 11  1  0
+  3 13  1  0
+  3 17  1  0
+  4 10  1  0
+  4 18  1  0
+  5 11  2  0
+  5 15  1  0
+  6 18  2  0
+  6 31  1  0
+  7 19  1  0
+  7 30  1  0
+  8 24  1  0
+  8 30  2  0
+  9 24  1  0
+  9 31  2  0
+ 10 11  1  0
+ 10 12  1  1
+ 12 16  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 14 20  1  0
+ 15 21  1  0
+ 17 22  2  0
+ 17 23  1  0
+ 18 19  1  0
+ 19 24  2  0
+ 20 25  2  0
+ 21 26  2  0
+ 22 27  1  0
+ 23 28  2  0
+ 25 26  1  0
+ 27 29  2  0
+ 28 29  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB09054
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <ORIGINAL_SOURCE>  (1) 
+PUBCHEM
+
+>  <ORIGINAL_SOURCE_URL>  (1) 
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IFSDAJWBUCMOAH-HNNXBMFYSA-N/SDF?record_type=3d
+
+>  <SMILES>  (1) 
+[H][C@@](CC)(NC1=NC=NC2=C1N=CN2)C1=NC2=CC=CC(F)=C2C(=O)N1C1=CC=CC=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C22H18FN7O/c1-2-15(28-20-18-19(25-11-24-18)26-12-27-20)21-29-16-10-6-9-14(23)17(16)22(31)30(21)13-7-4-3-5-8-13/h3-12,15H,2H2,1H3,(H2,24,25,26,27,28)/t15-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+IFSDAJWBUCMOAH-HNNXBMFYSA-N
+
+>  <FORMULA>  (1) 
+C22H18FN7O
+
+>  <MOLECULAR_WEIGHT>  (1) 
+415.432
+
+>  <EXACT_MASS>  (1) 
+415.155686391
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+6
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+49
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+41.40914236889856
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+5-fluoro-3-phenyl-2-[(1S)-1-[(9H-purin-6-yl)amino]propyl]-3,4-dihydroquinazolin-4-one
+
+>  <ALOGPS_LOGP>  (1) 
+3.03
+
+>  <JCHEM_LOGP>  (1) 
+3.361083963333334
+
+>  <ALOGPS_LOGS>  (1) 
+-4.21
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+5
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+15.101183263453347
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.86163038495056
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.271706485445055
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+99.16
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+116.8321
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.55e-02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+5-fluoro-3-phenyl-2-[(1S)-1-(9H-purin-6-ylamino)propyl]quinazolin-4-one
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB09054
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Idelalisib
+
+>  <SYNONYMS>  (1) 
+5-Fluoro-3-phenyl-2-((S)-1-(9H-purin-6-ylamino)-propyl)-3H-quinazolin-4-one; 5-fluoro-3-phenyl-2-[(1S)-1-(3H-purin-6-ylamino)propyl]quinazolin-4(3H)-one; Idelalisib
+
+>  <PRODUCTS>  (1) 
+Zydelig
+
+$$$$

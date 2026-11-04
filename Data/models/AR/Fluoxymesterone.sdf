@@ -1,0 +1,186 @@
+6446
+     RDKit          3D
+
+ 24 27  0  0  1  0  0  0  0  0999 V2000
+   -0.5052    0.0041    1.4359 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0459   -0.8064    0.0684 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3789   -2.3093   -1.1699 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7099    0.3200    1.1359 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6184   -0.4150   -0.0940 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.8103    0.8867    0.0768 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.4119    0.8246   -0.5585 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.3988   -0.3391    0.0957 C   0  0  2  0  0  0  0  0  0  0  0  0
+    3.9779    0.0059    0.5529 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.8393   -1.5447    0.6094 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8868   -0.4217   -0.4394 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.3846   -1.6858    0.1046 C   0  0  2  0  0  0  0  0  0  0  0  0
+    2.7791    1.9689   -0.3895 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1632    1.4696    0.0660 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3202    2.1624   -0.3612 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8682   -0.7949   -1.5830 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5329    0.9677   -0.3388 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7389    2.1181   -0.9092 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6722   -1.4394    0.4400 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0339   -0.0655    2.0843 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9897   -0.8597   -1.9192 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1818   -1.3245    0.3018 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7507    1.1969    0.1801 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6244    0.0813    0.6110 C   0  0  0  0  0  0  0  0  0  0  0  0
+  8  1  1  1
+  2  9  1  0
+ 12  3  1  6
+  4 24  2  0
+  5  6  1  0
+  5  9  1  0
+  5 10  1  0
+  5 16  1  6
+  6  7  1  0
+  6 13  1  6
+  7  8  1  0
+  7 15  1  1
+  8 11  1  0
+  8 12  1  0
+  9 14  1  0
+  9 20  1  1
+ 10 12  1  0
+ 11 17  1  0
+ 11 19  1  0
+ 11 21  1  6
+ 13 14  1  0
+ 15 18  1  0
+ 17 18  1  0
+ 17 23  2  0
+ 19 22  1  0
+ 22 24  1  0
+ 23 24  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB01185
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <ORIGINAL_SOURCE>  (1) 
+PUBCHEM
+
+>  <ORIGINAL_SOURCE_URL>  (1) 
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YLRFCQOZQXIBAB-RBZZARIASA-N/SDF?record_type=3d
+
+>  <SMILES>  (1) 
+[H][C@@]12CC[C@](C)(O)[C@@]1(C)C[C@H](O)[C@@]1(F)[C@@]2([H])CCC2=CC(=O)CC[C@]12C
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C20H29FO3/c1-17-8-6-13(22)10-12(17)4-5-15-14-7-9-19(3,24)18(14,2)11-16(23)20(15,17)21/h10,14-16,23-24H,4-9,11H2,1-3H3/t14-,15-,16-,17-,18-,19-,20-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+YLRFCQOZQXIBAB-RBZZARIASA-N
+
+>  <FORMULA>  (1) 
+C20H29FO3
+
+>  <MOLECULAR_WEIGHT>  (1) 
+336.4409
+
+>  <EXACT_MASS>  (1) 
+336.210072999
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+53
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-2.741086320790729e-07
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+36.647837329005206
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(1S,3aS,3bS,9aS,9bR,10S,11aS)-9b-fluoro-1,10-dihydroxy-1,9a,11a-trimethyl-1H,2H,3H,3aH,3bH,4H,5H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-one
+
+>  <ALOGPS_LOGP>  (1) 
+2.50
+
+>  <JCHEM_LOGP>  (1) 
+2.3808420980000005
+
+>  <ALOGPS_LOGS>  (1) 
+-3.87
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+14.619093837476962
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.601723478310447
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-2.9899243323854225
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+57.53
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+90.18849999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+4.52e-02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tetrahydrofolic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB01185
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00981
+
+>  <DRUG_GROUPS>  (1) 
+approved; illicit
+
+>  <GENERIC_NAME>  (1) 
+Fluoxymesterone
+
+>  <SYNONYMS>  (1) 
+11β,17β-Dihydroxy-9α-fluoro-17α-methyl-4-androster-3-one; 17α-Methyl-9α-fluoro-11β-hydroxytesterone; 9-Fluoro-11β,17β-dihydroxy-17-methylandrost-4-en-3-one; 9α-Fluoro-11β-hydroxy-17-methyltestosterone; Fluoximesterona; Fluoxymestérone; Fluoxymesterone; Fluoxymesteronum
+
+>  <PRODUCTS>  (1) 
+Androxy; Halotestin
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Ora-Testryl; Testoral; U-Gono; UItandren
+
+$$$$

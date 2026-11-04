@@ -1,0 +1,182 @@
+6450551
+     RDKit          3D
+
+ 28 31  0  0  0  0  0  0  0  0999 V2000
+   -3.2724    0.4260    1.8356 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.6235   -0.7942    1.1015 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5260   -1.6296   -1.1911 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8616   -1.5157   -1.2808 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1376   -2.0264   -0.1832 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0507    0.7697    0.6552 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0254   -0.1979    0.3932 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0377   -0.8643   -0.2060 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1618   -0.6437   -0.3154 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3638   -0.7041    0.2015 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5988    0.1744    1.2642 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7733    0.6814    1.4595 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5499    0.8563    1.8839 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0506    1.0577    0.3572 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4897   -0.2216   -0.0443 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1278    0.4064   -0.2477 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5546    2.2394   -0.1975 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6351   -0.6218   -0.6582 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7064    0.9347   -1.4018 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1332    2.7676   -1.3516 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6880   -0.8302    0.2859 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2089    2.1153   -1.9537 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9908   -0.1526   -0.3196 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0699   -0.6684   -0.9994 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3285   -0.1945   -0.6465 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5996   -3.3315    0.2318 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2904    1.2066    0.9709 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4496    0.7610    0.3564 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0
+  1 14  1  0
+  2 21  2  0
+  3  4  1  0
+  3  8  1  0
+  4  9  2  0
+  5 21  1  0
+  5 26  1  0
+  6 23  2  0
+  6 27  1  0
+  7  8  2  0
+  7  9  1  0
+  7 12  1  0
+  8 10  1  0
+  9 15  1  0
+ 10 11  2  0
+ 11 13  1  0
+ 12 13  2  0
+ 14 16  2  0
+ 14 17  1  0
+ 15 18  2  0
+ 16 19  1  0
+ 16 21  1  0
+ 17 20  2  0
+ 18 23  1  0
+ 19 22  2  0
+ 20 22  1  0
+ 23 24  1  0
+ 24 25  2  0
+ 25 28  1  0
+ 27 28  2  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB06626
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <ORIGINAL_SOURCE>  (1) 
+PUBCHEM
+
+>  <ORIGINAL_SOURCE_URL>  (1) 
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RITAVMQDGBJQJZ-FMIVXFBMSA-N/SDF?record_type=3d
+
+>  <SMILES>  (1) 
+CNC(=O)C1=C(SC2=CC=C3C(NN=C3\C=C\C3=CC=CC=N3)=C2)C=CC=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C22H18N4OS/c1-23-22(27)18-7-2-3-8-21(18)28-16-10-11-17-19(25-26-20(17)14-16)12-9-15-6-4-5-13-24-15/h2-14H,1H3,(H,23,27)(H,25,26)/b12-9+
+
+>  <INCHI_KEY>  (1) 
+RITAVMQDGBJQJZ-FMIVXFBMSA-N
+
+>  <FORMULA>  (1) 
+C22H18N4OS
+
+>  <MOLECULAR_WEIGHT>  (1) 
+386.47
+
+>  <EXACT_MASS>  (1) 
+386.120131908
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+46
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+42.581139444177964
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+N-methyl-2-({3-[(E)-2-(pyridin-2-yl)ethenyl]-1H-indazol-6-yl}sulfanyl)benzamide
+
+>  <ALOGPS_LOGP>  (1) 
+4.17
+
+>  <JCHEM_LOGP>  (1) 
+4.148864336333333
+
+>  <ALOGPS_LOGS>  (1) 
+-5.85
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+14.232825934497587
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.074693773903022
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.592516178946188
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+70.67
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+115.136
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.51e-04 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+axitinib
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB06626
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Axitinib
+
+>  <SYNONYMS>  (1) 
+Axitinib; Axitinibum; N-methyl-2-[[3-[(E)-2-pyridin-2-ylethenyl]-1H-indazol-6-yl]sulfanyl]benzamide
+
+>  <PRODUCTS>  (1) 
+Inlyta
+
+$$$$

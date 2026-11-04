@@ -1,0 +1,147 @@
+5453
+     RDKit          3D
+
+ 11 13  0  0  0  0  0  0  0  0999 V2000
+   -0.3484    0.9498    2.1094 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0615    0.0526    0.3907 P   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.3578    0.1092   -0.6574 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2829   -1.5760    0.4968 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2002    0.6587   -0.5169 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5494   -0.6123   -0.2417 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5054    0.8877   -0.2208 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6365   -2.2383   -0.7481 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6727   -1.9546    0.2999 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0376    2.0148   -1.0142 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9926    1.7084    0.1022 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  6
+  2  4  1  0
+  2  5  1  0
+  3  6  1  0
+  3  7  1  0
+  4  8  1  0
+  4  9  1  0
+  5 10  1  0
+  5 11  1  0
+  6  7  1  0
+  8  9  1  0
+ 10 11  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB04572
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <ORIGINAL_SOURCE>  (1) 
+PUBCHEM
+
+>  <ORIGINAL_SOURCE_URL>  (1) 
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FOCVUCIESVLUNU-UHFFFAOYSA-N/SDF?record_type=3d
+
+>  <SMILES>  (1) 
+S=P(N1CC1)(N1CC1)N1CC1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C6H12N3PS/c11-10(7-1-2-7,8-3-4-8)9-5-6-9/h1-6H2
+
+>  <INCHI_KEY>  (1) 
+FOCVUCIESVLUNU-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C6H12N3PS
+
+>  <MOLECULAR_WEIGHT>  (1) 
+189.218
+
+>  <EXACT_MASS>  (1) 
+189.048954601
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+23
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+5.5636106635771426e-08
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+18.22403692858343
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+tris(aziridin-1-yl)-lambda5-phosphanethione
+
+>  <ALOGPS_LOGP>  (1) 
+0.17
+
+>  <JCHEM_LOGP>  (1) 
+-1.0273805153333337
+
+>  <ALOGPS_LOGS>  (1) 
+-1.31
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-0.29921290491100205
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+9.03
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+50.72220000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+3
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+9.27e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tetrahydrofolic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB04572
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Thiotepa
+
+>  <SYNONYMS>  (1) 
+Thiotepa
+
+>  <PRODUCTS>  (1) 
+Tepadina; Thio Tepa Inj 15mg/vial; Thiotepa; Thiotepa - (pws 15 Mg/vial); Thiotepa Riemser; Thiotepa for Injection USP; Thiotepa for Injection, BP
+
+$$$$

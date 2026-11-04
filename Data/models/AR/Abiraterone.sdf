@@ -1,0 +1,185 @@
+132971
+     RDKit          3D
+
+ 26 30  0  0  1  0  0  0  0  0999 V2000
+   -7.0864    0.7998   -0.6274 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5158    1.9037    0.3807 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3732    0.2834   -0.1669 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8547   -1.1051    0.3084 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.6135   -1.2536   -0.0980 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.5373   -0.1634    0.5067 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.8736    0.5189    0.2701 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.4103    1.4465    0.1979 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0729    1.1648   -0.1141 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7127   -2.2228   -0.3027 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3399   -2.5659    0.1724 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7197   -0.7348    0.0045 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4443    1.7059   -0.5618 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8743   -0.7599    0.0784 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1803   -1.9375   -0.2617 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4867   -0.1022    2.0549 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9752    0.8544    1.7775 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7539   -2.1002   -0.0342 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2219   -0.5739    0.0432 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9585    1.8802   -0.4527 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6904    0.5943   -0.8199 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.1265   -0.0144   -0.1405 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0957   -0.4702   -1.0343 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3896    1.1718    0.5349 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2674    0.2552   -1.2200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4278    1.4251   -0.4952 C   0  0  0  0  0  0  0  0  0  0  0  0
+ 21  1  1  1
+  2 24  2  0
+  2 26  1  0
+  3  4  1  0
+  3  7  1  0
+  3  8  1  1
+  4  5  1  0
+  4 10  1  6
+  5  6  1  0
+  5 11  1  1
+  6  9  1  0
+  6 14  1  0
+  6 16  1  1
+  7 12  1  0
+  7 13  1  0
+  7 17  1  1
+  8  9  1  0
+ 10 15  1  0
+ 11 18  1  0
+ 12 15  2  0
+ 12 19  1  0
+ 13 20  1  0
+ 14 18  2  0
+ 14 22  1  0
+ 19 21  1  0
+ 20 21  1  0
+ 22 23  2  0
+ 22 24  1  0
+ 23 25  1  0
+ 25 26  2  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB05812
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <ORIGINAL_SOURCE>  (1) 
+PUBCHEM
+
+>  <ORIGINAL_SOURCE_URL>  (1) 
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GZOSMCIZMLWJML-VJLLXTKPSA-N/SDF?record_type=3d
+
+>  <SMILES>  (1) 
+[H][C@@]12CC=C(C3=CC=CN=C3)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@H](O)CC[C@]12C
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C24H31NO/c1-23-11-9-18(26)14-17(23)5-6-19-21-8-7-20(16-4-3-13-25-15-16)24(21,2)12-10-22(19)23/h3-5,7,13,15,18-19,21-22,26H,6,8-12,14H2,1-2H3/t18-,19-,21-,22-,23-,24+/m0/s1
+
+>  <INCHI_KEY>  (1) 
+GZOSMCIZMLWJML-VJLLXTKPSA-N
+
+>  <FORMULA>  (1) 
+C24H31NO
+
+>  <MOLECULAR_WEIGHT>  (1) 
+349.509
+
+>  <EXACT_MASS>  (1) 
+349.240564619
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+57
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+0.0064156447426323045
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+42.032014442240495
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+(3aS,3bR,7S,9aR,9bS,11aS)-9a,11a-dimethyl-1-(pyridin-3-yl)-3H,3aH,3bH,4H,6H,7H,8H,9H,9aH,9bH,10H,11H,11aH-cyclopenta[a]phenanthren-7-ol
+
+>  <ALOGPS_LOGP>  (1) 
+5.10
+
+>  <JCHEM_LOGP>  (1) 
+3.965292910666668
+
+>  <ALOGPS_LOGS>  (1) 
+-5.06
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+5
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+18.204289505501876
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+4.8100355598371225
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+33.120000000000005
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+107.30239999999998
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.05e-03 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+biotin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+1
+
+>  <DRUGBANK_ID>  (1) 
+DB05812
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Abiraterone
+
+>  <SYNONYMS>  (1) 
+(3β)-17-(pyridin-3-yl)androsta-5,16-dien-3-ol; 17-(3-Pyridyl)androsta-5,16-dien-3beta-ol; Abiraterona; Abiraterone
+
+>  <PRODUCTS>  (1) 
+Abiraterone; Abiraterone Accord; Abiraterone Acetate; Abiraterone Krka; Abiraterone Mylan; Abiraterone acetate; Akeega; Apo-abiraterone; Apo-abiraterone Acetate Film Coated Tablets; Apo-abiraterone Film Coated Tablets; Jamp Abiraterone; Mar-abiraterone; Nat-abiraterone; PMS-abiraterone; Prz-abiraterone; Reddy-abiraterone; Sandoz Abiraterone; Teva-abiraterone; Yonsa; Zytiga
+
+>  <SALTS>  (1) 
+Abiraterone acetate
+
+$$$$

@@ -1,0 +1,156 @@
+3385
+     RDKit          3D
+
+  9  9  0  0  0  0  0  0  0  0999 V2000
+   -2.4548   -0.8375   -0.0007 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6047    1.7485   -0.0004 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8116    0.3571   -0.0012 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6158    1.0774    0.0010 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1263   -1.2139    0.0002 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7579    0.8612    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6093    0.0896    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1377   -0.5646    0.0002 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2079   -1.5178    0.0003 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0
+  2  6  2  0
+  3  7  2  0
+  4  6  1  0
+  4  7  1  0
+  5  7  1  0
+  5  9  1  0
+  6  8  1  0
+  8  9  2  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00544
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <ORIGINAL_SOURCE>  (1) 
+PUBCHEM
+
+>  <ORIGINAL_SOURCE_URL>  (1) 
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/GHASVSINZRGABV-UHFFFAOYSA-N/SDF?record_type=3d
+
+>  <SMILES>  (1) 
+FC1=CNC(=O)NC1=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C4H3FN2O2/c5-2-1-6-4(9)7-3(2)8/h1H,(H2,6,7,8,9)
+
+>  <INCHI_KEY>  (1) 
+GHASVSINZRGABV-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C4H3FN2O2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+130.0772
+
+>  <EXACT_MASS>  (1) 
+130.017855555
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+12
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-0.40012700331500595
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+9.45943734046829
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+5-fluoro-1,2,3,4-tetrahydropyrimidine-2,4-dione
+
+>  <ALOGPS_LOGP>  (1) 
+-0.58
+
+>  <JCHEM_LOGP>  (1) 
+-0.6558480899999999
+
+>  <ALOGPS_LOGS>  (1) 
+-1.35
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+1
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-1
+
+>  <JCHEM_PKA>  (1) 
+12.009826118281222
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+7.17587932808474
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-7.973676798194867
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+58.2
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+26.1722
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+0
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.86e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+biotin
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB00544
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00516; EXPT03204
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Fluorouracil
+
+>  <SYNONYMS>  (1) 
+5-Fluoracil; 5-Fluoropyrimidine-2,4-dione; 5-Fluorouracil; 5-Fluracil; 5-FU; Fluoro Uracil; Fluorouracil; Fluorouracilo; Fluorouracilum; Fluouracil
+
+>  <PRODUCTS>  (1) 
+Actikerall; Adrucil; Adrucil Inj 50mg/ml; Carac; Efudex; Fluorac; Fluoroplex; Fluoroplex Cream 1%; Fluorouracil; Fluorouracil Cream; Fluorouracil Inj 50mg/ml; Fluorouracil Injection; Fluorouracil Injection USP; Tolak; Verrunex
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Carzonal; Efudix; Efurix; Ftoruracil
+
+>  <SALTS>  (1) 
+Fluorouracil sodium
+
+$$$$

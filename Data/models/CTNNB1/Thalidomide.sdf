@@ -1,0 +1,175 @@
+5426
+     RDKit          3D
+
+ 19 21  0  0  1  0  0  0  0  0999 V2000
+   -1.3627   -0.0566   -2.1582 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9379    2.5651   -0.0280 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0584   -1.9761    0.2363 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3111   -0.5033    0.1689 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0770    0.3778    0.1191 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3101   -0.2925   -0.9555 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3347    0.6544    0.1522 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.9692    0.0997    1.4171 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4598    0.3851    1.4006 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9655    0.0514   -1.0905 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0469    1.3548    0.0360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6093   -0.8932    0.1670 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3248    0.6439    0.0405 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0603   -0.7154    0.1197 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1199   -0.1933    0.1717 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6128    1.1348   -0.0207 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0700   -1.6556    0.1417 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6522    0.2004    0.0009 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3834   -1.1813    0.0812 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 10  2  0
+  2 11  2  0
+  3 12  2  0
+  4 15  2  0
+  7  5  1  1
+  5 11  1  0
+  5 12  1  0
+  6 10  1  0
+  6 15  1  0
+  7  8  1  0
+  7 10  1  0
+  8  9  1  0
+  9 15  1  0
+ 11 13  1  0
+ 12 14  1  0
+ 13 14  2  0
+ 13 16  1  0
+ 14 17  1  0
+ 16 18  2  0
+ 17 19  2  0
+ 18 19  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB01041
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <ORIGINAL_SOURCE>  (1) 
+PUBCHEM
+
+>  <ORIGINAL_SOURCE_URL>  (1) 
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/UEJJHQNACJXSKW-UHFFFAOYSA-N/SDF?record_type=3d
+
+>  <SMILES>  (1) 
+O=C1N(C2CCC(=O)NC2=O)C(=O)C2=CC=CC=C12
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C13H10N2O4/c16-10-6-5-9(11(17)14-10)15-12(18)7-3-1-2-4-8(7)13(15)19/h1-4,9H,5-6H2,(H,14,16,17)
+
+>  <INCHI_KEY>  (1) 
+UEJJHQNACJXSKW-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C13H10N2O4
+
+>  <MOLECULAR_WEIGHT>  (1) 
+258.2295
+
+>  <EXACT_MASS>  (1) 
+258.064056818
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+29
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-2.5510808393848604e-12
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+24.424569969032678
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+1
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+2-(2,6-dioxopiperidin-3-yl)-2,3-dihydro-1H-isoindole-1,3-dione
+
+>  <ALOGPS_LOGP>  (1) 
+0.42
+
+>  <JCHEM_LOGP>  (1) 
+0.01570735600000027
+
+>  <ALOGPS_LOGS>  (1) 
+-2.00
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+16.74270753163753
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.593278965606647
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-6.448342644269867
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+83.55
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+64.32480000000001
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+1
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.55e+00 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+thalidomide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB01041
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD01251
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Thalidomide
+
+>  <SYNONYMS>  (1) 
+(+-)-N-(2,6-dioxo-3-Piperidyl)phthalimide; (+-)-Thalidomide; (±)-N-(2,6-dioxo-3-piperidyl)phthalimide; (±)-thalidomide; 1,3-dioxo-2-(2,6-dioxopiperidin-3-yl)isoindoline; 2,6-dioxo-3-phthalimidopiperidine; 3-Phthalimidoglutarimide; alpha-(N-Phthalimido)glutarimide; alpha-N-Phthalylglutaramide; N-(2,6-dioxo-3-piperidyl)phthalimide; N-Phthaloylglutamimide; N-Phthalyl-glutaminsaeure-imid; N-Phthalylglutamic acid imide; Talidomida; Thalidomide; Thalidomidum; α-(N-phthalimido)glutarimide; α-N-phthalylglutaramide; α-phthalimidoglutarimide
+
+>  <PRODUCTS>  (1) 
+Thalidomide Celgene; Thalidomide Lipomed; Thalomid
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Contergan; Distaval; K-17; Sedalis; Softenon; Talimol; Thaled
+
+$$$$

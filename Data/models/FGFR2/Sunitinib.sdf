@@ -1,0 +1,195 @@
+5329102
+     RDKit          3D
+
+ 29 31  0  0  0  0  0  0  0  0999 V2000
+    7.3421   -1.9332    2.0237 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1676    1.7851   -0.8482 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1660    1.2214   -1.8222 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8561   -0.7407   -0.0641 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6750    1.7829    0.9513 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1485   -0.4445   -0.2615 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4453    0.6024   -1.8711 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5025   -0.4874    0.4124 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1875    0.9254    0.0980 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1856   -0.0763    0.0942 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9279    0.4914    0.6216 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4965   -0.7178   -0.7057 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6279    2.0648    0.6329 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.8331   -0.4842    0.9960 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9840   -2.1164   -0.5491 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5446    0.8201   -0.3592 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2742    0.0935    0.0284 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2519    0.0047    0.8814 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6466   -0.3695    0.2033 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3372   -1.4640   -0.3924 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3142   -0.0357   -0.9788 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1962    3.4047    0.8793 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1617    0.7243   -1.3294 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7189    0.9391    1.5152 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.3720   -2.3738   -1.1106 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3108   -1.0109    1.2317 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6499   -0.3230   -1.1800 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6648   -1.3116    1.0487 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3278   -0.9709   -0.1455 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 28  1  0
+  2 16  2  0
+  3 23  2  0
+  4  8  1  0
+  4 14  1  0
+  4 15  1  0
+  5 11  1  0
+  5 13  1  0
+  6 12  1  0
+  6 16  1  0
+  7 21  1  0
+  7 23  1  0
+  8 12  1  0
+  9 10  1  0
+  9 13  2  0
+  9 16  1  0
+ 10 11  2  0
+ 10 20  1  0
+ 11 18  1  0
+ 13 22  1  0
+ 14 24  1  0
+ 15 25  1  0
+ 17 18  2  0
+ 17 19  1  0
+ 17 23  1  0
+ 19 21  2  0
+ 19 26  1  0
+ 21 27  1  0
+ 26 28  2  0
+ 27 29  2  0
+ 28 29  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB01268
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <ORIGINAL_SOURCE>  (1) 
+PUBCHEM
+
+>  <ORIGINAL_SOURCE_URL>  (1) 
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WINHZLLDWRZWRT-ATVHPVEESA-N/SDF?record_type=3d
+
+>  <SMILES>  (1) 
+CCN(CC)CCNC(=O)C1=C(C)NC(\C=C2/C(=O)NC3=C2C=C(F)C=C3)=C1C
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C22H27FN4O2/c1-5-27(6-2)10-9-24-22(29)20-13(3)19(25-14(20)4)12-17-16-11-15(23)7-8-18(16)26-21(17)28/h7-8,11-12,25H,5-6,9-10H2,1-4H3,(H,24,29)(H,26,28)/b17-12-
+
+>  <INCHI_KEY>  (1) 
+WINHZLLDWRZWRT-ATVHPVEESA-N
+
+>  <FORMULA>  (1) 
+C22H27FN4O2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+398.4738
+
+>  <EXACT_MASS>  (1) 
+398.211804333
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+3
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+56
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+0.9909832169410497
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+44.73934209398874
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+N-[2-(diethylamino)ethyl]-5-{[(3Z)-5-fluoro-2-oxo-2,3-dihydro-1H-indol-3-ylidene]methyl}-2,4-dimethyl-1H-pyrrole-3-carboxamide
+
+>  <ALOGPS_LOGP>  (1) 
+3.24
+
+>  <JCHEM_LOGP>  (1) 
+2.9273768136666662
+
+>  <ALOGPS_LOGS>  (1) 
+-4.11
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+14.821863487808587
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.464278939168288
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.04269290383312
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+77.23
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+116.26629999999999
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+3.08e-02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+tetrahydrofolic acid
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB01268
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+DB07417
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Sunitinib
+
+>  <SYNONYMS>  (1) 
+Sunitinib; Sunitinibum
+
+>  <PRODUCTS>  (1) 
+Auro-sunitinib; Eugia-sunitinib; Nat-sunitinib; Sandoz Sunitinib; Sunitinib Accord; Sunitinib Malate; Sunitinib malate; Sutent; Taro-sunitinib; Teva-sunitinib
+
+>  <SALTS>  (1) 
+Sunitinib malate
+
+$$$$

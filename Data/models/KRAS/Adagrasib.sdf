@@ -1,0 +1,217 @@
+138611145
+     RDKit          3D
+
+ 43 48  0  0  1  0  0  0  0  0999 V2000
+   -3.0408    0.1235    1.8036 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.1823   -5.8506   -1.7864 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5764    3.4991   -0.2687 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9586   -5.2709    1.1115 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0830    4.6403    0.2213 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3769   -1.1499   -0.3471 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7390   -3.7060   -0.1090 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4212    0.2720   -0.9872 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4999    1.1875   -0.3151 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4864    2.5128   -0.6279 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3994   -1.0141    3.5087 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6220    4.7011    0.0761 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.4438    5.5262   -1.2003 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7109   -2.7475    1.0068 C   0  0  2  0  0  0  0  0  0  0  0  0
+    4.7129    6.3630   -1.3194 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5512    5.9888   -0.1085 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4766   -1.8336    0.9437 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9345   -1.8073   -1.5293 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0287   -3.3185   -1.3330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9682    3.3301   -0.0411 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7389    0.0841   -0.4580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6251    0.1118   -0.6969 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4385   -1.1383   -0.8176 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2059    1.3736   -0.7606 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7362   -0.8804   -1.5803 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6878    1.5439   -1.0012 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0177   -1.9499    1.0883 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5144    4.2366    1.5542 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8329    2.3508   -0.4123 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3613   -4.9410    0.0860 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8078    0.2623   -0.8339 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4756    0.1958    0.3997 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2245   -1.4305    2.4400 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5248    0.3248   -2.0290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2822   -5.9240   -1.0143 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8907    0.1929    0.4215 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9163    0.3219   -2.0076 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7701    0.1322    1.6124 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5962    0.2565   -0.7911 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5585    0.1265    1.6551 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4499    0.0667    2.8289 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2371   -6.8265   -1.2323 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8414    0.0639    2.8503 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 38  1  0
+  2 35  1  0
+  3 20  1  0
+  3 29  1  0
+  4 30  2  0
+  5 12  1  0
+  5 16  1  0
+  5 28  1  0
+  6 17  1  0
+  6 18  1  0
+  6 21  1  0
+  7 14  1  0
+  7 19  1  0
+  7 30  1  0
+  8 25  1  0
+  8 26  1  0
+  8 31  1  0
+  9 21  2  0
+  9 29  1  0
+ 10 24  1  0
+ 10 29  2  0
+ 11 33  3  0
+ 12 13  1  0
+ 12 20  1  6
+ 13 15  1  0
+ 14 17  1  0
+ 14 27  1  6
+ 15 16  1  0
+ 18 19  1  0
+ 21 22  1  0
+ 22 23  1  0
+ 22 24  2  0
+ 23 25  1  0
+ 24 26  1  0
+ 27 33  1  0
+ 30 35  1  0
+ 31 32  1  0
+ 31 34  2  0
+ 32 36  2  0
+ 32 38  1  0
+ 34 37  1  0
+ 35 42  2  0
+ 36 39  1  0
+ 36 40  1  0
+ 37 39  2  0
+ 38 41  2  0
+ 40 43  2  0
+ 41 43  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB15568
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <ORIGINAL_SOURCE>  (1) 
+PUBCHEM
+
+>  <ORIGINAL_SOURCE_URL>  (1) 
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PEMUGDMSUDYLHU-ZEQRLZLVSA-N/SDF?record_type=3d
+
+>  <SMILES>  (1) 
+[H][C@@]1(COC2=NC3=C(CCN(C3)C3=CC=CC4=C3C(Cl)=CC=C4)C(=N2)N2CCN(C(=O)C(F)=C)[C@@]([H])(CC#N)C2)CCCN1C
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C32H35ClFN7O2/c1-21(34)31(42)41-17-16-40(18-23(41)11-13-35)30-25-12-15-39(28-10-4-7-22-6-3-9-26(33)29(22)28)19-27(25)36-32(37-30)43-20-24-8-5-14-38(24)2/h3-4,6-7,9-10,23-24H,1,5,8,11-12,14-20H2,2H3/t23-,24-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+PEMUGDMSUDYLHU-ZEQRLZLVSA-N
+
+>  <FORMULA>  (1) 
+C32H35ClFN7O2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+604.13
+
+>  <EXACT_MASS>  (1) 
+603.2524793
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+8
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+78
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+0.9665617242451652
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+62.26972528831472
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+2-[(2S)-4-[7-(8-chloronaphthalen-1-yl)-2-{[(2S)-1-methylpyrrolidin-2-yl]methoxy}-5H,6H,7H,8H-pyrido[3,4-d]pyrimidin-4-yl]-1-(2-fluoroprop-2-enoyl)piperazin-2-yl]acetonitrile
+
+>  <ALOGPS_LOGP>  (1) 
+5.16
+
+>  <JCHEM_LOGP>  (1) 
+4.895587947333334
+
+>  <ALOGPS_LOGS>  (1) 
+-4.72
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+6
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.456038579717413
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+88.83000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+166.79289999999992
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.15e-02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+2-[(2S)-4-[7-(8-chloronaphthalen-1-yl)-2-{[(2S)-1-methylpyrrolidin-2-yl]methoxy}-5H,6H,8H-pyrido[3,4-d]pyrimidin-4-yl]-1-(2-fluoroprop-2-enoyl)piperazin-2-yl]acetonitrile
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB15568
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Adagrasib
+
+>  <SYNONYMS>  (1) 
+((2s)-4-(7-(8-chloronaphthalen-1-yl)-2-(((2s)-1- methylpyrrolidin-2-yl)methoxy)-5,6,7,8- tetrahydropyrido(3,4-d)pyrimidin-4-yl)-1-(2-fluoroprop2-enoyl)piperazin-2-yl)acetonitrile; 2-piperazineacetonitrile, 4-(7-(8-chloro-1-naphthalenyl)-5,6,7,8-tetrahydro-2-(((2s)-1-methyl-2-pyrrolidinyl)methoxy)pyrido(3,4-d)pyrimidin-4-yl)-1-(2-fluoro-1-oxo-2-propen-1-yl)-, (2s)-; KRAS G12C inhibitor MRTX849
+
+>  <PRODUCTS>  (1) 
+Krazati
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Krazati
+
+$$$$

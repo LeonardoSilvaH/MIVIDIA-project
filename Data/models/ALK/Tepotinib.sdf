@@ -1,0 +1,198 @@
+25171648
+     RDKit          3D
+
+ 37 41  0  0  0  0  0  0  0  0999 V2000
+   -3.9650   -1.6544    0.2960 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9332   -0.9557   -0.5356 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.3409    0.8246   -0.7539 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3284   -1.2626    0.1452 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8736   -3.6099    0.1517 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9155   -0.2523    0.3769 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9463    0.7037    0.4875 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7096    2.8202    0.8454 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8252   -0.1583    0.3865 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -6.4846   -0.8091   -0.8342 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2562    1.3089    0.4870 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.0007   -0.6028   -0.8241 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7798    1.4447    0.4539 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3055   -0.2805    0.3194 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.7916    1.0077   -0.7968 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6287   -1.9649    0.2378 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6492   -0.9935    0.2031 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1777   -3.2688    0.2094 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0157   -2.5723    0.1226 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3852   -2.8978    0.0610 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6836   -2.3566    0.5718 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6909   -1.4409    1.1818 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3263   -2.0408    0.6316 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8015   -4.0703   -0.5697 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0999   -3.5291   -0.0587 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1589   -4.3860   -0.6295 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0815    1.7952   -0.1960 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0384   -0.1180   -0.4257 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0360    2.8464   -0.0810 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2054    2.0731   -1.1113 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1430    1.1333   -1.2055 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7179    2.4915    0.2058 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3740    4.1880   -0.2592 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7379    3.4780    0.3141 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3940    5.1746   -0.1506 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0759    4.8196    0.1361 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6127    3.1150    0.6073 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0
+  1 16  1  0
+  2 28  2  0
+  3 12  1  0
+  3 13  1  0
+  3 15  1  0
+  4 17  2  0
+  4 19  1  0
+  5 18  1  0
+  5 19  2  0
+  6  7  1  0
+  6 22  1  0
+  6 28  1  0
+  7 27  2  0
+  8 37  3  0
+  9 10  1  0
+  9 11  1  0
+  9 14  1  6
+ 10 12  1  0
+ 11 13  1  0
+ 16 17  1  0
+ 16 18  2  0
+ 19 20  1  0
+ 20 23  2  0
+ 20 24  1  0
+ 21 22  1  0
+ 21 23  1  0
+ 21 25  2  0
+ 24 26  2  0
+ 25 26  1  0
+ 27 29  1  0
+ 27 30  1  0
+ 28 31  1  0
+ 29 32  2  0
+ 29 33  1  0
+ 30 31  2  0
+ 32 34  1  0
+ 33 35  2  0
+ 34 36  2  0
+ 34 37  1  0
+ 35 36  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB15133
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <ORIGINAL_SOURCE>  (1) 
+PUBCHEM
+
+>  <ORIGINAL_SOURCE_URL>  (1) 
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/AHYMHWXQRWRBKT-UHFFFAOYSA-N/SDF?record_type=3d
+
+>  <SMILES>  (1) 
+CN1CCC(COC2=CN=C(N=C2)C2=CC(CN3N=C(C=CC3=O)C3=CC(=CC=C3)C#N)=CC=C2)CC1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C29H28N6O2/c1-34-12-10-21(11-13-34)20-37-26-17-31-29(32-18-26)25-7-3-5-23(15-25)19-35-28(36)9-8-27(33-35)24-6-2-4-22(14-24)16-30/h2-9,14-15,17-18,21H,10-13,19-20H2,1H3
+
+>  <INCHI_KEY>  (1) 
+AHYMHWXQRWRBKT-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C29H28N6O2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+492.583
+
+>  <EXACT_MASS>  (1) 
+492.227374166
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+65
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+0.9927280154976607
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+54.70410460265933
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+0
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+3-{1-[(3-{5-[(1-methylpiperidin-4-yl)methoxy]pyrimidin-2-yl}phenyl)methyl]-6-oxo-1,6-dihydropyridazin-3-yl}benzonitrile
+
+>  <JCHEM_LOGP>  (1) 
+3.996021434000001
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+5
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+9.134353748695272
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+94.71
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+154.742
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+7
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+disodium dexamethasone phosphate(2-)
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB15133
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Tepotinib
+
+>  <SYNONYMS>  (1) 
+Tepotinib
+
+>  <PRODUCTS>  (1) 
+Tepmetko
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Tepmetko
+
+>  <SALTS>  (1) 
+Tepotinib hydrochloride
+
+$$$$

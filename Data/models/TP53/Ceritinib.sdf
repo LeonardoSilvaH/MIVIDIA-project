@@ -1,0 +1,205 @@
+57379345
+     RDKit          3D
+
+ 38 41  0  0  0  0  0  0  0  0999 V2000
+    5.1401    2.9328   -0.8782 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    4.7663   -1.6880    1.2564 S   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.1971    2.9592    0.3167 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2340   -2.9675    1.7674 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7242   -0.6509    0.9074 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8801   -2.8899    0.5469 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6584    2.6038   -0.8438 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4965    0.4121   -0.5459 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4052    1.5054   -0.6954 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2910    3.8920   -1.0088 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3108   -1.7606   -0.2875 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -5.6074   -1.5326   -1.0824 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6432   -2.0502    1.1856 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5900   -2.6849   -0.8724 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6639   -3.1821    1.3057 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3326   -0.6120   -0.4416 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0786   -0.8103   -1.0194 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7020    0.6568    0.0049 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8176    1.7274   -0.1268 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1941    0.2603   -1.1510 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5635    1.5292   -0.7048 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6613   -2.1597   -1.5052 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5148    3.0786    1.7018 C   0  0  1  0  0  0  0  0  0  0  0  0
+    3.6489   -1.0206    2.4667 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.7473    2.6704   -0.8498 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7590   -1.9776   -0.1465 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5608    4.0699    2.3505 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9660    3.5102    1.8474 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2341   -0.9230   -0.8932 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4001   -0.6754    3.7440 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5163   -2.0004    2.7354 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4837   -3.2955   -0.5112 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7507    1.6058   -0.7055 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4337   -1.1862   -2.0049 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6833   -3.5588   -1.6230 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1581   -2.5041   -2.3697 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4296    2.7972   -0.8604 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6400    3.9192   -1.0094 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 37  1  0
+  2  4  2  0
+  2  5  2  0
+  2 24  1  0
+  2 26  1  6
+  3 19  1  0
+  3 23  1  0
+  6 14  1  0
+  6 15  1  0
+  7 21  1  0
+  7 25  1  0
+  8 29  1  0
+  8 33  1  0
+  9 25  2  0
+  9 33  1  0
+ 10 25  1  0
+ 10 38  2  0
+ 11 12  1  0
+ 11 13  1  0
+ 11 16  1  1
+ 12 14  1  0
+ 13 15  1  0
+ 16 17  2  0
+ 16 18  1  0
+ 17 20  1  0
+ 17 22  1  0
+ 18 19  2  0
+ 19 21  1  0
+ 20 21  2  0
+ 23 27  1  6
+ 23 28  1  0
+ 24 30  1  1
+ 24 31  1  0
+ 26 29  2  0
+ 26 32  1  0
+ 29 34  1  0
+ 32 35  2  0
+ 33 37  2  0
+ 34 36  2  0
+ 35 36  1  0
+ 37 38  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB09063
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <ORIGINAL_SOURCE>  (1) 
+PUBCHEM
+
+>  <ORIGINAL_SOURCE_URL>  (1) 
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VERWOWGGCGHDQE-UHFFFAOYSA-N/SDF?record_type=3d
+
+>  <SMILES>  (1) 
+CC(C)OC1=C(NC2=NC(NC3=CC=CC=C3S(=O)(=O)C(C)C)=C(Cl)C=N2)C=C(C)C(=C1)C1CCNCC1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C28H36ClN5O3S/c1-17(2)37-25-15-21(20-10-12-30-13-11-20)19(5)14-24(25)33-28-31-16-22(29)27(34-28)32-23-8-6-7-9-26(23)38(35,36)18(3)4/h6-9,14-18,20,30H,10-13H2,1-5H3,(H2,31,32,33,34)
+
+>  <INCHI_KEY>  (1) 
+VERWOWGGCGHDQE-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C28H36ClN5O3S
+
+>  <MOLECULAR_WEIGHT>  (1) 
+558.14
+
+>  <EXACT_MASS>  (1) 
+557.2227389
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+8
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+74
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+61.32527700940867
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+0
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+5-chloro-N2-[5-methyl-4-(piperidin-4-yl)-2-(propan-2-yloxy)phenyl]-N4-[2-(propane-2-sulfonyl)phenyl]pyrimidine-2,4-diamine
+
+>  <ALOGPS_LOGP>  (1) 
+5.23
+
+>  <JCHEM_LOGP>  (1) 
+5.8052708939835584
+
+>  <ALOGPS_LOGS>  (1) 
+-5.40
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+13.61834334125873
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+11.57916953570114
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+10.074307542437316
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+105.24000000000001
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+153.8568
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+9
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.22e-03 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+5-chloro-N2-[2-isopropoxy-5-methyl-4-(piperidin-4-yl)phenyl]-N4-[2-(propane-2-sulfonyl)phenyl]pyrimidine-2,4-diamine
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB09063
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Ceritinib
+
+>  <SYNONYMS>  (1) 
+Céritinib; Ceritinib; Ceritinibum; N-{2-[(5-chloro-2-{[2-isopropoxy-5-methyl-4-(piperidin-4-yl)phenyl]amino}pyrimidin-4-yl)amino]phenyl}propane-2-sulfonamide
+
+>  <PRODUCTS>  (1) 
+Zykadia
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Zykadia
+
+$$$$

@@ -1,0 +1,203 @@
+71496458
+     RDKit          3D
+
+ 37 40  0  0  1  0  0  0  0  0999 V2000
+    2.5800   -3.7798    0.1575 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9619    1.1797   -2.0847 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0475    0.6100   -1.1047 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1887    1.3569    0.4454 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8294    1.7155    1.9601 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0813   -3.1358   -0.4783 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3654    1.2872   -1.7553 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9103   -1.7423   -0.0110 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1716   -4.1359   -0.1085 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4021    1.4970   -0.0162 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9986   -0.3240   -0.9514 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4401    0.8254    0.8736 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0776    0.8453    0.9537 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0141    1.8811    0.9361 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7311   -0.3170    0.4568 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6841    0.0144   -1.2730 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2927   -1.6003   -0.4713 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0275    0.0291    0.1530 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9578   -2.1997   -0.6343 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7738    0.6956   -2.3546 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2723   -2.5382   -0.3127 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6638   -0.9235   -1.1146 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2269   -1.6470    0.2676 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7752    1.1164    1.4181 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7121    3.1796    1.3615 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4231    2.0889    0.2595 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8213    1.7057    3.0218 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1361    1.3324    2.4981 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4556   -2.9979   -0.1847 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4588    2.4106    1.8467 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4139    3.4249    1.8179 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0689   -2.7353    0.3728 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4803   -3.9673    0.1730 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1064    1.7789   -2.1200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5390   -3.9651    1.5710 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1848    3.1933   -2.5880 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9161    3.8415   -2.9811 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 21  1  0
+  1 35  1  0
+  2 34  2  0
+  3 10  1  0
+  3 11  1  0
+  3 20  1  0
+  4 14  1  0
+  4 18  1  0
+  4 26  1  0
+  5 12  1  0
+  5 27  1  0
+  5 28  1  0
+  6 19  1  0
+  6 29  1  0
+  7 16  1  0
+  7 34  1  0
+  8 23  2  0
+  8 29  1  0
+  9 29  2  0
+  9 33  1  0
+ 10 12  1  0
+ 11 16  2  0
+ 11 17  1  0
+ 13 14  2  0
+ 13 15  1  0
+ 13 24  1  0
+ 14 25  1  0
+ 15 18  2  0
+ 15 23  1  0
+ 16 22  1  0
+ 17 21  2  0
+ 19 21  1  0
+ 19 22  2  0
+ 23 32  1  0
+ 24 30  2  0
+ 25 31  2  0
+ 30 31  1  0
+ 32 33  2  0
+ 34 36  1  0
+ 36 37  2  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB09330
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <ORIGINAL_SOURCE>  (1) 
+PUBCHEM
+
+>  <ORIGINAL_SOURCE_URL>  (1) 
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/DUYJMQONPNNFPI-UHFFFAOYSA-N/SDF?record_type=3d
+
+>  <SMILES>  (1) 
+COC1=C(NC2=NC=CC(=N2)C2=CN(C)C3=C2C=CC=C3)C=C(NC(=O)C=C)C(=C1)N(C)CCN(C)C
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C28H33N7O2/c1-7-27(36)30-22-16-23(26(37-6)17-25(22)34(4)15-14-33(2)3)32-28-29-13-12-21(31-28)20-18-35(5)24-11-9-8-10-19(20)24/h7-13,16-18H,1,14-15H2,2-6H3,(H,30,36)(H,29,31,32)
+
+>  <INCHI_KEY>  (1) 
+DUYJMQONPNNFPI-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C28H33N7O2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+499.619
+
+>  <EXACT_MASS>  (1) 
+499.269573331
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+7
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+70
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+56.842801876431494
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+N-(2-{[2-(dimethylamino)ethyl](methyl)amino}-4-methoxy-5-{[4-(1-methyl-1H-indol-3-yl)pyrimidin-2-yl]amino}phenyl)prop-2-enamide
+
+>  <ALOGPS_LOGP>  (1) 
+4.47
+
+>  <JCHEM_LOGP>  (1) 
+4.486981489333335
+
+>  <ALOGPS_LOGS>  (1) 
+-4.35
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+1
+
+>  <JCHEM_PKA>  (1) 
+15.223932344575143
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+13.644238757745772
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+8.867831669147341
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+87.54999999999998
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+150.32349999999997
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+10
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+2.24e-02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+N-(2-{[2-(dimethylamino)ethyl](methyl)amino}-4-methoxy-5-{[4-(1-methylindol-3-yl)pyrimidin-2-yl]amino}phenyl)prop-2-enamide
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB09330
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Osimertinib
+
+>  <SYNONYMS>  (1) 
+Mereletinib; N-(2-{[2-(dimethylamino)ethyl](methyl)amino}-4-methoxy-5-{[4-(1-methyl-1H-indol-3-yl)pyrimidin-2-yl]amino}phenyl)prop-2-enamide; Osimertinib; Osimertinibum
+
+>  <PRODUCTS>  (1) 
+Tagrisso
+
+>  <SALTS>  (1) 
+Osimertinib mesylate
+
+$$$$

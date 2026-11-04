@@ -1,0 +1,187 @@
+50905713
+     RDKit          3D
+
+ 30 34  0  0  1  0  0  0  0  0999 V2000
+   -4.7244   -0.5325    2.2931 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8998    1.1370    1.2972 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2296    0.8424   -0.3396 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6654   -0.4920   -1.6148 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9612   -2.2833   -0.6512 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0303    0.6483    0.4452 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0232   -1.9962    1.2875 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7526   -0.0582    2.0220 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5902    0.3689   -2.0366 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6518   -0.0324   -1.2801 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1209   -1.2798   -1.4559 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2451   -1.7761   -0.6778 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8281   -0.9542    0.2861 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3181    0.4273    0.4765 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3898    0.2516   -3.5365 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7767    2.1992   -0.1595 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3487   -0.3437   -0.4163 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7350   -3.0737   -0.8691 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8989   -1.4252    1.0566 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3728   -1.2001   -0.0631 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3068    2.6180    1.0852 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8087    3.0930   -1.2298 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8018   -3.5422   -0.1019 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3823   -2.7190    0.8603 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0492   -1.0419    1.1391 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1312    3.9310    1.2596 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3708    4.4057   -1.0554 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0991    4.8248    0.1893 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9436   -2.7255    0.1949 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7416    0.7287    1.5950 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0
+  2 14  2  0
+  3 10  1  0
+  3 14  1  0
+  3 16  1  0
+  4  9  1  0
+  4 17  1  0
+  5 20  1  0
+  5 29  1  0
+  6 17  1  0
+  6 30  2  0
+  7 25  1  0
+  7 29  2  0
+  8 25  2  0
+  8 30  1  0
+  9 10  1  0
+  9 15  1  6
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 18  1  0
+ 13 14  1  0
+ 13 19  1  0
+ 16 21  2  0
+ 16 22  1  0
+ 17 20  2  0
+ 18 23  2  0
+ 19 24  2  0
+ 20 25  1  0
+ 21 26  1  0
+ 22 27  2  0
+ 23 24  1  0
+ 26 28  2  0
+ 27 28  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB11952
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <ORIGINAL_SOURCE>  (1) 
+PUBCHEM
+
+>  <ORIGINAL_SOURCE_URL>  (1) 
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SJVQHLPISAIATJ-ZDUSSCGKSA-N/SDF?record_type=3d
+
+>  <SMILES>  (1) 
+C[C@H](NC1=C2N=CNC2=NC=N1)C1=CC2=CC=CC(Cl)=C2C(=O)N1C1=CC=CC=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C22H17ClN6O/c1-13(28-21-19-20(25-11-24-19)26-12-27-21)17-10-14-6-5-9-16(23)18(14)22(30)29(17)15-7-3-2-4-8-15/h2-13H,1H3,(H2,24,25,26,27,28)/t13-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+SJVQHLPISAIATJ-ZDUSSCGKSA-N
+
+>  <FORMULA>  (1) 
+C22H17ClN6O
+
+>  <MOLECULAR_WEIGHT>  (1) 
+416.87
+
+>  <EXACT_MASS>  (1) 
+416.1152369
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+5
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+47
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+42.20050502348157
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+8-chloro-2-phenyl-3-[(1S)-1-[(9H-purin-6-yl)amino]ethyl]-1,2-dihydroisoquinolin-1-one
+
+>  <ALOGPS_LOGP>  (1) 
+3.91
+
+>  <JCHEM_LOGP>  (1) 
+3.6709151060000003
+
+>  <ALOGPS_LOGS>  (1) 
+-4.33
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+5
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+16.10158095439894
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+9.8624789737905
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+3.9893334568703964
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+86.8
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+118.52790000000002
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+1
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.95e-02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+8-chloro-2-phenyl-3-[(1S)-1-(9H-purin-6-ylamino)ethyl]isoquinolin-1-one
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB11952
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational
+
+>  <GENERIC_NAME>  (1) 
+Duvelisib
+
+>  <SYNONYMS>  (1) 
+Duvelisib
+
+>  <PRODUCTS>  (1) 
+Copiktra
+
+$$$$

@@ -1,0 +1,173 @@
+448537
+     RDKit          3D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+   -5.9857    0.2503   -0.1267 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9857   -0.2502   -0.1265 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4341   -0.5216   -0.1288 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4340    0.5213   -0.1293 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0168   -1.9786   -0.1818 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0168    1.9783   -0.1829 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9021   -0.3171   -0.1289 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9020    0.3171   -0.1291 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1886   -2.5717    1.2061 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1880    2.5722    1.2048 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5662   -0.2252   -1.3363 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5661    0.2240   -1.3365 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5646   -0.2247    1.0797 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5645    0.2257    1.0795 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9478   -0.0330   -1.3354 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9477    0.0319   -1.3355 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9462   -0.0325    1.0807 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9461    0.0337    1.0806 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6378    0.0632   -0.1269 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6379   -0.0632   -0.1269 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 19  1  0
+  2 20  1  0
+  3  4  2  0
+  3  5  1  0
+  3  7  1  0
+  4  6  1  0
+  4  8  1  0
+  5  9  1  0
+  6 10  1  0
+  7 11  2  0
+  7 13  1  0
+  8 12  2  0
+  8 14  1  0
+ 11 15  1  0
+ 12 16  1  0
+ 13 17  2  0
+ 14 18  2  0
+ 15 19  2  0
+ 16 20  2  0
+ 17 19  1  0
+ 18 20  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00255
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <ORIGINAL_SOURCE>  (1) 
+PUBCHEM
+
+>  <ORIGINAL_SOURCE_URL>  (1) 
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RGLYKWWBQGJZGM-ISLYRVAYSA-N/SDF?record_type=3d
+
+>  <SMILES>  (1) 
+CC\C(=C(\CC)C1=CC=C(O)C=C1)C1=CC=C(O)C=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C18H20O2/c1-3-17(13-5-9-15(19)10-6-13)18(4-2)14-7-11-16(20)12-8-14/h5-12,19-20H,3-4H2,1-2H3/b18-17+
+
+>  <INCHI_KEY>  (1) 
+RGLYKWWBQGJZGM-ISLYRVAYSA-N
+
+>  <FORMULA>  (1) 
+C18H20O2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+268.356
+
+>  <EXACT_MASS>  (1) 
+268.146329884
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+2
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+40
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+30.69005777835331
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+2
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+1
+
+>  <JCHEM_IUPAC>  (1) 
+4-[(3E)-4-(4-hydroxyphenyl)hex-3-en-3-yl]phenol
+
+>  <ALOGPS_LOGP>  (1) 
+4.62
+
+>  <JCHEM_LOGP>  (1) 
+5.193882748
+
+>  <ALOGPS_LOGS>  (1) 
+-4.39
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+2
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+9.231491526289268
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+8.629198524189572
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+-6.456792337140983
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+40.46
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+83.2406
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+4
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+1.09e-02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+diethylstilbestrol
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB00255
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00920; EXPT01164
+
+>  <DRUG_GROUPS>  (1) 
+approved; investigational; withdrawn
+
+>  <GENERIC_NAME>  (1) 
+Diethylstilbestrol
+
+>  <SYNONYMS>  (1) 
+(E)-3,4-bis(4-hydroxyphenyl)-3-hexene; (E)-4,4'-(1,2-diethyl-1,2-ethenediyl)bisphenol; 4,4'-dihydroxy-α,β-diethylstilbene; DES; Diéthylstilbestrol; Diethylstilbestrol; Diethylstilbestrolum; Dietilestilbestrol; Stilboestrol; trans-4,4'-(1,2-diethyl-1,2-ethenediyl)bisphenol; trans-Diethylstilbesterol; trans-Diethylstilbestrol; trans-Diethylstilboesterol; α,α'-diethyl-(E)-4,4'-stilbenediol
+
+>  <PRODUCTS>  (1) 
+Honvol Ampoules 250mg; Honvol Tablets 100mg; Stilbestrol 0.5mg Tablet; Stilbestrol 1.0mg Tablet; Stilbestrol Tab 1mg; Stilbestrol Tablets 0.1 mg; Stilbestrol Tablets 0.5 mg; Stilbestrol Tablets 1.0 mg; Stilboestrol Tab 0.1mg; Stilboestrol Tab 0.5mg
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Distilbene; Stilbestrol; Stilbetin
+
+>  <SALTS>  (1) 
+Diethylstilbestrol diphosphate; Diethylstilbestrol diphosphate sodium
+
+$$$$

@@ -1,0 +1,198 @@
+71584930
+     RDKit          3D
+
+ 33 36  0  0  0  0  0  0  0  0999 V2000
+    2.2009   -4.0820   -0.5503 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9788   -4.1955   -0.8548 F   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5185   -1.3362    2.3265 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8313    0.7700    0.0855 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2021    0.0460    1.5123 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9433    1.9215   -1.8779 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5792    2.9428   -0.4853 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2969   -1.4823   -0.3609 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0340    0.0279   -0.1713 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8094    0.6887    0.3884 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5334   -0.9823   -0.0054 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2674    0.4821   -0.8813 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0789   -0.7799    1.3797 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7693    0.2654    2.8407 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1087   -0.3790   -1.0551 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3718   -1.8612   -0.2333 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9277    1.5213    0.5074 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8649    1.1140   -1.9683 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4470    2.1039   -0.6402 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0372   -0.5385    3.0420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8958   -1.2802   -0.1936 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5053   -3.2274   -0.4819 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0298   -2.0655   -0.4021 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6286   -4.0124   -0.6906 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8962   -3.4315   -0.6507 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2064    3.5998   -1.5850 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6395   -0.1285   -0.1258 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.7839    1.2139    0.0105 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1759    1.1780   -0.0709 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1312    2.4191    0.2699 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.9155    2.3472    0.1072 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.8708    3.5885    0.4480 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.2629    3.5524    0.3668 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 22  1  0
+  2 25  1  0
+  3 13  2  0
+  4 27  2  0
+  5 10  1  0
+  5 13  1  0
+  5 14  1  0
+  6 18  2  0
+  6 19  1  0
+  7 19  1  0
+  7 26  1  0
+  8 23  1  0
+  8 27  1  0
+  9 27  1  0
+  9 28  1  0
+ 10 12  2  0
+ 10 17  1  0
+ 11 13  1  0
+ 11 15  2  0
+ 11 16  1  0
+ 12 15  1  0
+ 12 18  1  0
+ 14 20  1  0
+ 16 21  2  0
+ 16 22  1  0
+ 17 19  2  0
+ 21 23  1  0
+ 22 24  2  0
+ 23 25  2  0
+ 24 25  1  0
+ 28 29  2  0
+ 28 30  1  0
+ 29 31  1  0
+ 30 32  2  0
+ 31 33  2  0
+ 32 33  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB14840
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <ORIGINAL_SOURCE>  (1) 
+PUBCHEM
+
+>  <ORIGINAL_SOURCE_URL>  (1) 
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/CEFJVGZHQAGLHS-UHFFFAOYSA-N/SDF?record_type=3d
+
+>  <SMILES>  (1) 
+CCN1C(=O)C(=CC2=C1C=C(NC)N=C2)C1=C(Br)C=C(F)C(NC(=O)NC2=CC=CC=C2)=C1
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C24H21BrFN5O2/c1-3-31-21-12-22(27-2)28-13-14(21)9-17(23(31)32)16-10-20(19(26)11-18(16)25)30-24(33)29-15-7-5-4-6-8-15/h4-13H,3H2,1-2H3,(H,27,28)(H2,29,30,33)
+
+>  <INCHI_KEY>  (1) 
+CEFJVGZHQAGLHS-UHFFFAOYSA-N
+
+>  <FORMULA>  (1) 
+C24H21BrFN5O2
+
+>  <MOLECULAR_WEIGHT>  (1) 
+510.367
+
+>  <EXACT_MASS>  (1) 
+509.086266
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+4
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+54
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+1.0791285994283104
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+47.20722145499343
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+1
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+3
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+1-{4-bromo-5-[1-ethyl-7-(methylamino)-2-oxo-1,2-dihydro-1,6-naphthyridin-3-yl]-2-fluorophenyl}-3-phenylurea
+
+>  <ALOGPS_LOGP>  (1) 
+4.30
+
+>  <JCHEM_LOGP>  (1) 
+4.392531297333334
+
+>  <ALOGPS_LOGS>  (1) 
+-4.94
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+0
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+4
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_PKA>  (1) 
+18.047528281355657
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+10.3386087334983
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+5.852722619792451
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+86.36
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+133.7802
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+5
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+5.83e-03 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+1-{4-bromo-5-[1-ethyl-7-(methylamino)-2-oxo-1,6-naphthyridin-3-yl]-2-fluorophenyl}-3-phenylurea
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB14840
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Ripretinib
+
+>  <SYNONYMS>  (1) 
+Ripretinib
+
+>  <PRODUCTS>  (1) 
+Qinlock
+
+$$$$

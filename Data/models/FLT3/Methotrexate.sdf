@@ -1,0 +1,206 @@
+126941
+     RDKit          3D
+
+ 33 35  0  0  1  0  0  0  0  0999 V2000
+    6.6948   -0.3640   -2.1205 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0713    2.2752    1.2795 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5447   -0.1271   -2.8066 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2195   -4.4354    1.0209 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7129   -3.2077    2.2085 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2037    3.0043    0.4138 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7291    0.6932   -0.3815 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9019    0.7691    0.1760 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6940   -0.5736   -2.2347 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5686   -2.4846   -1.2627 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1941   -2.5150    1.0521 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9153   -0.5693    2.3629 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4550   -4.4229   -0.2800 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0924    0.2330   -0.4611 C   0  0  1  0  0  0  0  0  0  0  0  0
+    5.3888   -0.9118    0.5153 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8319    2.6776    0.4346 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5906   -2.2029    0.2935 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9858    2.8117   -0.7914 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8821    2.0337    0.4747 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3275    1.6911    0.4958 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2225    2.1543   -0.7057 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0844    2.8791    1.5950 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3769   -0.1094   -1.9090 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1346    1.8323   -0.6857 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2725    2.5571    1.6149 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4154    1.3764   -0.9173 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8464    3.5500    1.5927 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9106   -3.2966    1.2895 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3129    0.7122   -2.1087 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2826   -0.5165    0.0483 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1834   -1.2067   -1.1618 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7965   -1.2314    1.1133 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0538   -3.0753   -0.1546 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 23  1  0
+  2 20  2  0
+  3 23  2  0
+  4 28  1  0
+  5 28  2  0
+  6 16  1  0
+  6 18  1  0
+  6 27  1  0
+  7 14  1  0
+  7 20  1  0
+  8 26  2  0
+  8 30  1  0
+  9 29  2  0
+  9 31  1  0
+ 10 31  1  0
+ 10 33  2  0
+ 11 32  2  0
+ 11 33  1  0
+ 12 32  1  0
+ 13 33  1  0
+ 14 15  1  1
+ 14 23  1  0
+ 15 17  1  0
+ 16 21  2  0
+ 16 22  1  0
+ 17 28  1  0
+ 18 26  1  0
+ 19 20  1  0
+ 19 24  2  0
+ 19 25  1  0
+ 21 24  1  0
+ 22 25  2  0
+ 26 29  1  0
+ 30 31  2  0
+ 30 32  1  0
+M  END
+>  <DATABASE_ID>  (1) 
+DB00563
+
+>  <DATABASE_NAME>  (1) 
+drugbank
+
+>  <ORIGINAL_SOURCE>  (1) 
+PUBCHEM
+
+>  <ORIGINAL_SOURCE_URL>  (1) 
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FBOZXECLQNJBKD-ZDUSSCGKSA-N/SDF?record_type=3d
+
+>  <SMILES>  (1) 
+[H][C@@](CCC(O)=O)(NC(=O)C1=CC=C(C=C1)N(C)CC1=NC2=C(N)NC(=N)N=C2N=C1)C(O)=O
+
+>  <INCHI_IDENTIFIER>  (1) 
+InChI=1S/C20H22N8O5/c1-28(9-11-8-23-17-15(24-11)16(21)26-20(22)27-17)12-4-2-10(3-5-12)18(31)25-13(19(32)33)6-7-14(29)30/h2-5,8,13H,6-7,9H2,1H3,(H,25,31)(H,29,30)(H,32,33)(H4,21,22,23,26,27)/t13-/m0/s1
+
+>  <INCHI_KEY>  (1) 
+FBOZXECLQNJBKD-ZDUSSCGKSA-N
+
+>  <FORMULA>  (1) 
+C20H22N8O5
+
+>  <MOLECULAR_WEIGHT>  (1) 
+454.4393
+
+>  <EXACT_MASS>  (1) 
+454.171315854
+
+>  <JCHEM_ACCEPTOR_COUNT>  (1) 
+12
+
+>  <JCHEM_ATOM_COUNT>  (1) 
+55
+
+>  <JCHEM_AVERAGE_NEUTRAL_MICROSPECIES_CHARGE>  (1) 
+-1.9654848932959705
+
+>  <JCHEM_AVERAGE_POLARIZABILITY>  (1) 
+45.42861602919311
+
+>  <JCHEM_BIOAVAILABILITY>  (1) 
+0
+
+>  <JCHEM_DONOR_COUNT>  (1) 
+6
+
+>  <JCHEM_FORMAL_CHARGE>  (1) 
+0
+
+>  <JCHEM_GHOSE_FILTER>  (1) 
+0
+
+>  <JCHEM_IUPAC>  (1) 
+(2S)-2-[(4-{[(4-amino-2-imino-2,3-dihydropteridin-6-yl)methyl](methyl)amino}phenyl)formamido]pentanedioic acid
+
+>  <ALOGPS_LOGP>  (1) 
+-0.05
+
+>  <JCHEM_LOGP>  (1) 
+-2.3464613416107674
+
+>  <ALOGPS_LOGS>  (1) 
+-3.74
+
+>  <JCHEM_MDDR_LIKE_RULE>  (1) 
+1
+
+>  <JCHEM_NEUTRAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_NUMBER_OF_RINGS>  (1) 
+3
+
+>  <JCHEM_PHYSIOLOGICAL_CHARGE>  (1) 
+-2
+
+>  <JCHEM_PKA>  (1) 
+3.802889058146695
+
+>  <JCHEM_PKA_STRONGEST_ACIDIC>  (1) 
+2.947105183151996
+
+>  <JCHEM_PKA_STRONGEST_BASIC>  (1) 
+14.553405700348458
+
+>  <JCHEM_POLAR_SURFACE_AREA>  (1) 
+205.91999999999996
+
+>  <JCHEM_REFRACTIVITY>  (1) 
+137.57400000000007
+
+>  <JCHEM_ROTATABLE_BOND_COUNT>  (1) 
+9
+
+>  <JCHEM_RULE_OF_FIVE>  (1) 
+0
+
+>  <ALOGPS_SOLUBILITY>  (1) 
+8.19e-02 g/l
+
+>  <JCHEM_TRADITIONAL_IUPAC>  (1) 
+ethane
+
+>  <JCHEM_VEBER_RULE>  (1) 
+0
+
+>  <DRUGBANK_ID>  (1) 
+DB00563
+
+>  <SECONDARY_ACCESSION_NUMBERS>  (1) 
+APRD00353
+
+>  <DRUG_GROUPS>  (1) 
+approved
+
+>  <GENERIC_NAME>  (1) 
+Methotrexate
+
+>  <SYNONYMS>  (1) 
+4-amino-10-methylfolic acid; 4-amino-N(10)-methylpteroylglutamic acid; Amethopterin; Methotrexat; Méthotrexate; Methotrexate; Methotrexatum; Metotrexato; MTX; N-[4-[[(2,4-diamino-6-pteridinyl)methyl]methylamino]benzoyl]-L-glutamic acid
+
+>  <PRODUCTS>  (1) 
+Ach-methotrexate; Apo-methotrexate; Auro-methotrexate; Eugia-methotrexate; Jamp-methotrexate; Jylamvo; M-methotrexate; Methofill Self-dose Injector; Methotrexate; Methotrexate Dbl Inj 10mg/ml; Methotrexate Dbl Inj 2.5mg/ml; Methotrexate Dbl Inj 25mg/ml; Methotrexate Injection BP; Methotrexate Injection USP; Methotrexate Injection, BP; Methotrexate Injection, USP; Methotrexate PF/sa Injection; Methotrexate Sod Inj 25mg/ml USP; Methotrexate Sodium; Methotrexate Sodium Inj 20mg; Methotrexate Sodium Inj 25.0mg/ml; Methotrexate Sodium Inj 25mg/ml; Methotrexate Sodium Inj 25mg/ml USP; Methotrexate Sodium Injection; Methotrexate Sodium Injection USP; Methotrexate Subcutaneous; Methotrexate Tab 2.5mg; Methotrexate Tab 2.5mg USP; Methotrexate Tablets, USP; Methotrexate-liq Im IV Iar Int Ivr 25mg/ml; Methotrexate-pws Im IV Iar Int Ivr 20mg/vial; Metoject; Metoject Subcutaneous; Nordimet; Otrexup; PMS-methotrexate; PMS-methotrexate Injection; Rasuvo; Ratio-methotrexate Sodium; RediTrex; Rheumatrex Dose Pack; Rheumatrex Tab 2.5mg; Rheumatrex-tab 2.5mg; Trexall; Xatmep
+
+>  <INTERNATIONAL_BRANDS>  (1) 
+Abitrexate; Alltrex; Artrait; Atrexel; Bendatrexat; Carditrex; Dermotrex; Ebetrex; Emtexate; Ledertrexate; Maxtrex; Meisusheng; Mexate; Rheumatrex; Trexan; Zexate
+
+>  <SALTS>  (1) 
+Methotrexate sodium
+
+$$$$
