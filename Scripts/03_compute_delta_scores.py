@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import json
+import os
 import pandas as pd
 from tqdm import tqdm
 from pathlib import Path
@@ -10,16 +11,43 @@ from pathlib import Path
 # INPUT / OUTPUT
 # ==========================================================
 
+# ---------------------------------------------------------------------------
+# Project root, so every path works no matter which folder the script
+# is launched from.
+# ---------------------------------------------------------------------------
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
 MATCHED_POCKETS_FILE = (
-    "Analysis/02_matched_pockets/02_matched_pockets.csv"
+    PROJECT_ROOT /
+    "Analysis" /
+    "02_matched_pockets" /
+    "02_matched_pockets.csv"
 )
 
 # ----------------------------------------------------------
 # CoBDock input
 # ----------------------------------------------------------
 
-POCKET_LOCATIONS_DIR = Path(
-    "/hd/leo/MIVIDIA/Data/resultados_mestrado/pocket_locations"
+# ---------------------------------------------------------------------------
+# CoBDock results.
+#
+# Set the MIVIDIA_RESULTS environment variable to analyse another
+# results folder without editing this file:
+#
+#     export MIVIDIA_RESULTS=/path/to/results
+# ---------------------------------------------------------------------------
+
+RESULTS_DIR = Path(
+    os.environ.get(
+        "MIVIDIA_RESULTS",
+        "/hd/leo/MIVIDIA/Data/resultados_mestrado"
+    )
+).expanduser()
+
+POCKET_LOCATIONS_DIR = (
+    RESULTS_DIR /
+    "pocket_locations"
 )
 
 POSE_DATA_FILE = (
@@ -31,8 +59,10 @@ POSE_DATA_FILE = (
 # Outputs
 # ----------------------------------------------------------
 
-OUTPUT_DIR = Path(
-    "Analysis/03_compute_delta_scores"
+OUTPUT_DIR = (
+    PROJECT_ROOT /
+    "Analysis" /
+    "03_compute_delta_scores"
 )
 
 OUTPUT_DIR.mkdir(

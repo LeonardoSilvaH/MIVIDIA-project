@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
 import os
+from pathlib import Path
+
 import pandas as pd
 
 from utils.statistics_utils import (
@@ -27,10 +29,22 @@ from utils.plotting_utils import (
 # INPUT
 # ==========================================================
 
-INPUT_CSV = "Analysis/03_compute_delta_scores/matched_pockets_scored.csv"
+# ---------------------------------------------------------------------------
+# Project root, so every path works no matter which folder the script
+# is launched from.
+# ---------------------------------------------------------------------------
 
-OUTPUT_DIR = "Results/Statistics"
-FIGURE_DIR = "Results/Figures"
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+INPUT_CSV = (
+    PROJECT_ROOT /
+    "Analysis" /
+    "03_compute_delta_scores" /
+    "matched_pockets_scored.csv"
+)
+
+OUTPUT_DIR = PROJECT_ROOT / "Results" / "Statistics"
+FIGURE_DIR = PROJECT_ROOT / "Results" / "Figures"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 os.makedirs(FIGURE_DIR, exist_ok=True)

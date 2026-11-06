@@ -47,6 +47,7 @@ Analysis/02_matched_pockets/02_skipped_entries.csv
 from pathlib import Path
 from dataclasses import dataclass
 import json
+import os
 import pickle
 
 import numpy as np
@@ -58,16 +59,39 @@ from scipy.optimize import linear_sum_assignment
 # USER SETTINGS
 ###############################################################################
 
-ALIGNMENT_FILE = Path(
-    "Analysis/01_align_structures/alignment_matrices.pkl"
+# ---------------------------------------------------------------------------
+# Project root, so every path works no matter which folder the script
+# is launched from.
+# ---------------------------------------------------------------------------
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+ALIGNMENT_FILE = (
+    PROJECT_ROOT /
+    "Analysis" /
+    "01_align_structures" /
+    "alignment_matrices.pkl"
 )
 
 # ---------------------------------------------------------------------------
-# CoBDock results
+# CoBDock results.
+#
+# Set the MIVIDIA_RESULTS environment variable to analyse another
+# results folder without editing this file:
+#
+#     export MIVIDIA_RESULTS=/path/to/results
 # ---------------------------------------------------------------------------
 
-POCKET_LOCATIONS_DIR = Path(
-    "/hd/leo/MIVIDIA/Data/resultados_mestrado/pocket_locations"
+RESULTS_DIR = Path(
+    os.environ.get(
+        "MIVIDIA_RESULTS",
+        "/hd/leo/MIVIDIA/Data/resultados_mestrado"
+    )
+).expanduser()
+
+POCKET_LOCATIONS_DIR = (
+    RESULTS_DIR /
+    "pocket_locations"
 )
 
 POSE_JSON = (
@@ -82,7 +106,7 @@ POCKET_JSON = (
 
 # Pocket residue lists, written by CoBDock next to pocket_locations/
 DOCKING_DIR = (
-    POCKET_LOCATIONS_DIR.parent /
+    RESULTS_DIR /
     "docking"
 )
 
@@ -108,8 +132,10 @@ CENTER_TOLERANCE = 0.01
 # Output
 # ---------------------------------------------------------------------------
 
-OUTPUT_DIR = Path(
-    "Analysis/02_matched_pockets"
+OUTPUT_DIR = (
+    PROJECT_ROOT /
+    "Analysis" /
+    "02_matched_pockets"
 )
 
 OUTPUT_DIR.mkdir(

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import os
+from pathlib import Path
 
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -12,12 +13,24 @@ from matplotlib.colors import TwoSlopeNorm
 # INPUT / OUTPUT
 # ==========================================================
 
+# ---------------------------------------------------------------------------
+# Project root, so every path works no matter which folder the script
+# is launched from.
+# ---------------------------------------------------------------------------
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
 INPUT_CSV = (
-    "Analysis/03_compute_delta_scores/docking_summary.csv"
+    PROJECT_ROOT /
+    "Analysis" /
+    "03_compute_delta_scores" /
+    "docking_summary.csv"
 )
 
 OUTPUT_DIR = (
-    "Results/Heatmaps"
+    PROJECT_ROOT /
+    "Results" /
+    "Heatmaps"
 )
 
 os.makedirs(

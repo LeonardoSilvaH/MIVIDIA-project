@@ -43,9 +43,16 @@ from utils.alignment import (
 # USER SETTINGS
 ###############################################################################
 
-MODEL_DIR = Path("Data/models")
+# ---------------------------------------------------------------------------
+# Project root, so every path works no matter which folder the script
+# is launched from.
+# ---------------------------------------------------------------------------
 
-OUTPUT_DIR = Path("Analysis/01_align_structures")
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+MODEL_DIR = PROJECT_ROOT / "Data" / "models"
+
+OUTPUT_DIR = PROJECT_ROOT / "Analysis" / "01_align_structures"
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 

@@ -22,12 +22,32 @@ Run every script from the repository root.
 | 4 | `Scripts/04_generate_heatmaps.py` | Mutation × drug heatmap per protein |
 | 5 | `Scripts/05_global_analysis.py` | Summary statistics and figures |
 
+## Paths
+
+Every script resolves its paths from the repository itself, so they can be
+launched from any working directory:
+
+```bash
+python /hd/leo/MIVIDIA-project/Scripts/02_match_pockets.py
+```
+
+`Analysis/` and `Results/` are always written inside the repository.
+
 ## Inputs
 
-- `Data/models/<PROTEIN>/wild-type/*.pdb` and `Data/models/<PROTEIN>/p<MUT>/ranked_0.pdb`
-- CoBDock output, set by `POCKET_LOCATIONS_DIR` in scripts 02 and 03:
+- `Data/models/<PROTEIN>/wild-type/*.pdb` and
+  `Data/models/<PROTEIN>/p<MUT>/ranked_0.pdb` (in this repository)
+- CoBDock output, read from `$MIVIDIA_RESULTS` (default
+  `/hd/leo/MIVIDIA/Data/resultados_mestrado`):
   - `pocket_locations/top_3_pockets.json`, `pocket_locations/pose_data.json`
   - `docking/fpocket_data.json`, `docking/p2rank_data.json` (pocket residues)
+
+To analyse another results folder, point the variable at it instead of
+editing the scripts:
+
+```bash
+export MIVIDIA_RESULTS=/path/to/cobdock/results
+```
 
 ## Setup
 
