@@ -16,6 +16,7 @@ Run every script from the repository root.
 
 | Step | Script | What it does |
 |---|---|---|
+| 0 | `Scripts/00_check_results.py` | Vets a CoBDock results folder before a run (layout, key naming, residue lookup, wild-type integrity) |
 | 1 | `Scripts/01_align_structures.py` | Superimposes each mutant model onto its wild type (Cα, chain A) |
 | 2 | `Scripts/02_match_pockets.py` | Matches WT and mutant pockets by residue overlap; labels each WT pocket Matched / NotDocked / Lost / Unresolved |
 | 3 | `Scripts/03_compute_delta_scores.py` | Δ PLANTS score (mutant − WT) for Matched pockets only |
@@ -48,6 +49,18 @@ editing the scripts:
 ```bash
 export MIVIDIA_RESULTS=/path/to/cobdock/results
 ```
+
+Check a new upload before running the pipeline on it:
+
+```bash
+python Scripts/00_check_results.py
+```
+
+It exits non-zero if the folder has no pocket residue data, if the
+mutation keys use an unexpected separator, or if wild-type entries are
+shared between proteins. Without residue data `02_match_pockets.py`
+refuses to run, because matching on aligned centre distance alone is
+unreliable for the structures that superimpose poorly.
 
 ## Setup
 
