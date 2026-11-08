@@ -1,3 +1,11 @@
 .venv/
 __pycache__/
 *.pyc
+
+# CoBDock result folders and uploads (large, kept outside git)
+Data/projeto_de_mestrado/
+Data/resultados_mestrado/
+Data/results_semifinal/
+Data/KRAS_MYC_results/
+Data/kras_article/
+Data/*.zip

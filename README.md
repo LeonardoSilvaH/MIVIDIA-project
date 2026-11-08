@@ -38,7 +38,7 @@ python /hd/leo/MIVIDIA-project/Scripts/02_match_pockets.py
 - `Data/models/<PROTEIN>/wild-type/*.pdb` and
   `Data/models/<PROTEIN>/p<MUT>/ranked_0.pdb` (in this repository)
 - CoBDock output, read from `$MIVIDIA_RESULTS` (default
-  `/hd/leo/MIVIDIA/Data/resultados_mestrado`):
+  `Data/projeto_de_mestrado` inside this repository):
   - `pocket_locations/top_3_pockets.json`, `pocket_locations/pose_data.json`
   - `docking/fpocket_data.json`, `docking/p2rank_data.json` (pocket residues)
 

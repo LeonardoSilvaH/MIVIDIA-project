@@ -85,7 +85,7 @@ ALIGNMENT_FILE = (
 RESULTS_DIR = Path(
     os.environ.get(
         "MIVIDIA_RESULTS",
-        "/hd/leo/MIVIDIA/Data/resultados_mestrado"
+        PROJECT_ROOT / "Data" / "projeto_de_mestrado"
     )
 ).expanduser()
 
@@ -218,6 +218,32 @@ for program, path in POCKET_RESIDUE_FILES.items():
         )
 
         pocket_residue_data[program] = {}
+
+if not any(pocket_residue_data.values()):
+
+    message = (
+        "\n" + "=" * 70 + "\n"
+        "NO POCKET RESIDUE DATA FOUND\n"
+        + "=" * 70 + "\n"
+        f"Looked in: {DOCKING_DIR}\n\n"
+        "Every pocket would be matched by aligned center distance alone.\n"
+        "That is unreliable here: several structures superimpose poorly\n"
+        "(BRAF ~46-50 A, SF3B1 ~38 A, RET >20 A global RMSD), so a distance\n"
+        "match does not establish that two pockets are the same site.\n\n"
+        "Point MIVIDIA_RESULTS at a results folder that has\n"
+        "docking/fpocket_data.json and docking/p2rank_data.json:\n\n"
+        "    export MIVIDIA_RESULTS=/path/to/results\n\n"
+        "To run on center distance anyway (not recommended), set:\n\n"
+        "    export MIVIDIA_ALLOW_DISTANCE_ONLY=1\n"
+        + "=" * 70
+    )
+
+    if os.environ.get("MIVIDIA_ALLOW_DISTANCE_ONLY") != "1":
+
+        raise SystemExit(message)
+
+    print(message)
+    print("\nMIVIDIA_ALLOW_DISTANCE_ONLY=1 set - continuing anyway.\n")
 
 
 ###############################################################################
@@ -525,6 +551,33 @@ def residue_overlap(a, b):
     return len(a & b) / len(a | b)
 
 
+def overlap_coefficient(a, b):
+    """
+    |A and B| / min(|A|, |B|), or None if either set is missing.
+
+    Diagnostic only - it does NOT decide whether two pockets match.
+
+    Unlike the Jaccard overlap this is not penalised when one detector
+    outlines a larger pocket than the other, which happens routinely
+    between fpocket (median 13 residues) and p2rank (median 20). It
+    answers "is the smaller pocket contained in the larger one?",
+    which is the better question for a pocket that the mutation has
+    remodelled rather than replaced.
+    """
+
+    if a is None or b is None:
+
+        return None
+
+    smaller = min(len(a), len(b))
+
+    if smaller == 0:
+
+        return None
+
+    return len(a & b) / smaller
+
+
 def transform_center(center, alignment):
     """
     Move a mutant pocket center into the WT reference frame.
@@ -549,6 +602,11 @@ def compare_pockets(wt, mut, alignment):
     """
 
     overlap = residue_overlap(
+        wt.residues,
+        mut.residues
+    )
+
+    coefficient = overlap_coefficient(
         wt.residues,
         mut.residues
     )
@@ -583,6 +641,13 @@ def compare_pockets(wt, mut, alignment):
 
     return {
         "ResidueOverlap": np.nan if overlap is None else overlap,
+        "OverlapCoefficient": (
+            np.nan if coefficient is None else coefficient
+        ),
+        "SharedResidues": (
+            np.nan if (wt.residues is None or mut.residues is None)
+            else len(wt.residues & mut.residues)
+        ),
         "Distance": distance,
         "MatchMethod": method,
         "SamePocket": same,
@@ -684,6 +749,12 @@ def match_row(protein, drug, mutation, status, wt, mut, comparison):
         "MatchStatus": status,
         "MatchMethod": comparison.get("MatchMethod"),
         "ResidueOverlap": comparison.get("ResidueOverlap", np.nan),
+        "OverlapCoefficient": comparison.get("OverlapCoefficient", np.nan),
+        "SharedResidues": comparison.get("SharedResidues", np.nan),
+        "SameProgram": (
+            None if (wt is None or mut is None)
+            else wt.program == mut.program
+        ),
         "Distance": comparison.get("Distance", np.nan),
         **pocket_fields(
             "WT",
