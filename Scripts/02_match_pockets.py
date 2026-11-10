@@ -655,6 +655,27 @@ def compare_pockets(wt, mut, alignment):
     }
 
 
+def overlap_value(comparison):
+    """
+    Residue overlap of a comparison for ranking, with missing values
+    sorting last. -1.0 for a missing comparison or a NaN overlap.
+    """
+
+    if comparison is None:
+
+        return -1.0
+
+    overlap = comparison.get("ResidueOverlap", np.nan)
+
+    try:
+
+        return -1.0 if np.isnan(overlap) else float(overlap)
+
+    except TypeError:
+
+        return -1.0
+
+
 def match_cost(comparison):
     """
     Lower is better. Residue overlap is preferred; distance only
@@ -1007,13 +1028,24 @@ for ligand_name in sorted(pocket_json):
 
             best, best_comparison = None, None
 
+            # Best overlap achieved by ANY candidate, including those
+            # below MIN_RESIDUE_OVERLAP. Recorded on Lost rows so the
+            # cutoff can be judged from the output: a Lost pocket that
+            # reached 0.45 against a candidate 2 A away was remodelled,
+            # not replaced, and a run of those means the cutoff is too
+            # strict.
+            near_comparison = None
+
             for candidate in candidates:
 
                 c = compare_pockets(wt, candidate, alignment)
 
+                if overlap_value(c) > overlap_value(near_comparison):
+
+                    near_comparison = c
+
                 if c["SamePocket"] and (
-                    best_comparison is None
-                    or c["ResidueOverlap"] > best_comparison["ResidueOverlap"]
+                    overlap_value(c) > overlap_value(best_comparison)
                 ):
 
                     best, best_comparison = candidate, c
@@ -1026,7 +1058,7 @@ for ligand_name in sorted(pocket_json):
                     "Lost" if best is None else "NotDocked",
                     wt,
                     best,
-                    best_comparison
+                    best_comparison if best is not None else near_comparison
                 )
             )
 
