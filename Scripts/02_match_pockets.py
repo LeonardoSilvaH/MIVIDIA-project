@@ -158,6 +158,13 @@ SKIPPED_OUTPUT = (
     "02_skipped_entries.csv"
 )
 
+# Pocket-lining residues of every matched pair, in long format, for
+# contact analysis. Shared = present in both WT and mutant pocket.
+RESIDUES_OUTPUT = (
+    OUTPUT_DIR /
+    "02_pocket_residues.csv"
+)
+
 
 ###############################################################################
 # DATA STRUCTURE
@@ -703,6 +710,8 @@ distance_rows = []
 
 skipped_rows = []
 
+residue_rows = []
+
 
 def skip_entry(protein, drug, mutation, reason):
     """
@@ -757,6 +766,50 @@ def pocket_fields(prefix, pocket, center=None):
         f"{prefix}_Y": center[1],
         f"{prefix}_Z": center[2],
     }
+
+
+def pocket_residue_rows(protein, drug, mutation, wt, mut):
+    """
+    One row per residue lining either pocket of a matched pair.
+
+    Role is Shared, WTOnly or MutantOnly. WTOnly and MutantOnly are the
+    residues the mutation added to or removed from the pocket, which is
+    what a contact analysis needs; Shared residues are the evidence the
+    match was made on.
+    """
+
+    if wt.residues is None or mut.residues is None:
+
+        return []
+
+    rows = []
+
+    for chain, number in sorted(wt.residues | mut.residues):
+
+        in_wt = (chain, number) in wt.residues
+
+        in_mut = (chain, number) in mut.residues
+
+        rows.append(
+            {
+                "Protein": protein,
+                "Drug": drug,
+                "Mutation": mutation,
+                "WT_PocketRank": wt.rank,
+                "Mut_PocketRank": mut.rank,
+                "WT_PocketProgram": wt.program,
+                "Mut_PocketProgram": mut.program,
+                "Chain": chain,
+                "Residue": number,
+                "Role": (
+                    "Shared" if (in_wt and in_mut)
+                    else "WTOnly" if in_wt
+                    else "MutantOnly"
+                ),
+            }
+        )
+
+    return rows
 
 
 def match_row(protein, drug, mutation, status, wt, mut, comparison):
@@ -1000,6 +1053,16 @@ for ligand_name in sorted(pocket_json):
                     )
                 )
 
+                residue_rows.extend(
+                    pocket_residue_rows(
+                        protein,
+                        drug,
+                        mutation,
+                        wt,
+                        mut_pockets[j]
+                    )
+                )
+
                 continue
 
             if wt.residues is None:
@@ -1159,6 +1222,25 @@ skipped_df.to_csv(
     index=False
 )
 
+pd.DataFrame(
+    residue_rows,
+    columns=[
+        "Protein",
+        "Drug",
+        "Mutation",
+        "WT_PocketRank",
+        "Mut_PocketRank",
+        "WT_PocketProgram",
+        "Mut_PocketProgram",
+        "Chain",
+        "Residue",
+        "Role",
+    ],
+).to_csv(
+    RESIDUES_OUTPUT,
+    index=False
+)
+
 
 ###############################################################################
 # SUMMARY
@@ -1172,6 +1254,7 @@ print("=" * 70)
 print(f"Pocket rows      : {len(matched_df)}")
 print(f"Distance entries : {len(distance_df)}")
 print(f"Skipped entries  : {len(skipped_df)}")
+print(f"Residue rows     : {len(residue_rows)}")
 
 print()
 print("Matched output:")
@@ -1180,6 +1263,8 @@ print("Distance output:")
 print(f"    {DISTANCE_OUTPUT}")
 print("Skipped entries log:")
 print(f"    {SKIPPED_OUTPUT}")
+print("Pocket residues (contact analysis):")
+print(f"    {RESIDUES_OUTPUT}")
 
 print("=" * 70)
 

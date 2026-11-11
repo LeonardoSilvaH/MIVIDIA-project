@@ -240,3 +240,73 @@ if len(matched):
         print("\n  These rely on residue identity, which is why the pipeline")
         print("  does not match on distance. Worth confirming the alignment")
         print("  RMSD for these proteins in 01_align_structures.")
+
+
+# ---------------------------------------------------------------- 6
+
+banner(6, "EVIDENCE STRENGTH (how many residues each match rests on)")
+
+if "SharedResidues" in df.columns:
+
+    ev = df[
+        (df["MatchStatus"] == "Matched")
+        & df["SharedResidues"].notna()
+    ].copy()
+
+    ev["SharedResidues"] = ev["SharedResidues"].astype(int)
+
+    print(f"  Matched pairs with a shared-residue count: {len(ev)}\n")
+
+    print(f"  {'shared':>8}  {'pairs':>8}  {'cumulative %':>13}")
+
+    counts = ev["SharedResidues"].value_counts().sort_index()
+
+    cumulative = 0
+
+    for shared, n in counts.items():
+
+        if shared > 12:
+
+            break
+
+        cumulative += n
+
+        print(f"  {shared:8d}  {n:8d}  {100 * cumulative / len(ev):12.1f}%")
+
+    big = (ev["SharedResidues"] > 12).sum()
+
+    print(f"  {'>12':>8}  {big:8d}  {100.0:12.1f}%")
+
+    print("\n  A pair sharing 2 residues out of 3 in each pocket reaches a")
+    print("  Jaccard of 0.50 and is accepted on the same footing as a pair")
+    print("  sharing 33 residues out of 50. These are not equal evidence.")
+
+    print("\n  Effect of an absolute floor on shared residues:\n")
+
+    print(f"  {'floor':>7}  {'kept':>8}  {'dropped':>8}  {'% dropped':>10}")
+
+    for floor in (3, 4, 5, 6, 8):
+
+        kept = (ev["SharedResidues"] >= floor).sum()
+
+        dropped = len(ev) - kept
+
+        print(f"  {floor:7d}  {kept:8d}  {dropped:8d}  "
+              f"{100 * dropped / len(ev):9.1f}%")
+
+    print("\n  Smallest pocket in each matched pair:\n")
+
+    sizes = df.loc[ev.index, ["WT_NResidues", "Mut_NResidues"]].min(axis=1)
+
+    for low, high in ((0, 4), (4, 6), (6, 9), (9, 15), (15, 10000)):
+
+        n = ((sizes >= low) & (sizes < high)).sum()
+
+        label = f"{low}-{high - 1}" if high < 10000 else f"{low}+"
+
+        print(f"    {label:>8} residues : {n:6d} pairs "
+              f"({100 * n / len(ev):5.1f}%)")
+
+else:
+
+    print("  SharedResidues column missing - rerun 02_match_pockets.py.")
